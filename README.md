@@ -1,2 +1,2 @@
 # radio
-Online Radio streams by artist
+Online Radio m3u list by artist
