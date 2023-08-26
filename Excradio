@@ -2339,3 +2339,77 @@ https://onlineradiobox.com/json/pt/dotalho/play?platform=web
 https://sp0.redeaudio.com/9974/stream
 #EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/4/50974.v6.png size="Small" background="https://cdn.onlineradiobox.com/img/l/4/50974.v6.png", stress.fm
 https://stress.fm/stream.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Portugal Premium" logo=https://cdn.onlineradiobox.com/img/l/3/58253.v17.png size="Small" background="https://cdn.onlineradiobox.com/img/l/3/58253.v17.png", M80 Radio
+https://stream-icy.bauermedia.pt/m80.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Portugal Premium" logo=https://cdn.onlineradiobox.com/img/l/2/75482.v12.png size="Small" background="https://cdn.onlineradiobox.com/img/l/2/75482.v12.png", M80 Radio 60's
+https://stream-icy.bauermedia.pt/m8060.aac
+#EXTINF:0 type="stream" channelId="-1" group="Portugal Premium" logo=https://cdn.onlineradiobox.com/img/l/4/75474.v13.png size="Small" background="https://cdn.onlineradiobox.com/img/l/4/75474.v13.png", M80 Radio 70's
+https://stream-icy.bauermedia.pt/m8070.aac
+#EXTINF:0 type="stream" channelId="-1" group="Portugal Premium" logo=https://cdn.onlineradiobox.com/img/l/5/75465.v14.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/75465.v14.png", M80 Radio 80's
+https://stream-icy.bauermedia.pt/m8080.aac
+#EXTINF:0 type="stream" channelId="-1" group="Portugal Premium" logo=https://cdn.onlineradiobox.com/img/l/8/75468.v15.png size="Small" background="https://cdn.onlineradiobox.com/img/l/8/75468.v15.png", M80 Radio 90's
+https://stream-icy.bauermedia.pt/m8090.aac
+#EXTINF:0 type="stream" channelId="-1" group="Portugal Premium" logo=https://cdn.onlineradiobox.com/img/l/0/75470.v13.png size="Small" background="https://cdn.onlineradiobox.com/img/l/0/75470.v13.png", M80 Radio Ballads
+https://stream-icy.bauermedia.pt/m80ballads.aac
+#EXTINF:0 type="stream" channelId="-1" group="Portugal Premium" logo=https://cdn.onlineradiobox.com/img/l/5/75475.v12.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/75475.v12.png", M80 Radio Dance
+https://stream-icy.bauermedia.pt/m80dance.aac
+#EXTINF:0 type="stream" channelId="-1" group="Portugal Premium" logo=https://cdn.onlineradiobox.com/img/l/4/107054.v8.png size="Small" background="https://cdn.onlineradiobox.com/img/l/4/107054.v8.png", M80 Radio Disco
+https://stream-icy.bauermedia.pt/m80disco.aac
+#EXTINF:0 type="stream" channelId="-1" group="Portugal Premium" logo=https://cdn.onlineradiobox.com/img/l/9/75479.v12.png size="Small" background="https://cdn.onlineradiobox.com/img/l/9/75479.v12.png", M80 Radio Indie
+https://stream-icy.bauermedia.pt/m80indie.aac
+#EXTINF:0 type="stream" channelId="-1" group="Portugal Premium" logo=https://cdn.onlineradiobox.com/img/l/2/75472.v12.png size="Small" background="https://cdn.onlineradiobox.com/img/l/2/75472.v12.png", M80 Radio Pop
+https://stream-icy.bauermedia.pt/m80pop.aac
+#EXTINF:0 type="stream" channelId="-1" group="Portugal Premium" logo=https://cdn.onlineradiobox.com/img/l/0/75480.v12.png size="Small" background="https://cdn.onlineradiobox.com/img/l/0/75480.v12.png", M80 Radio Portugal
+https://stream-icy.bauermedia.pt/m80nacional.aac
+#EXTINF:0 type="stream" channelId="-1" group="Portugal Premium" logo=https://cdn.onlineradiobox.com/img/l/7/75467.v15.png size="Small" background="https://cdn.onlineradiobox.com/img/l/7/75467.v15.png", M80 Radio Rock
+https://stream-icy.bauermedia.pt/m80rock.aac
+#EXTINF:0 type="stream" channelId="-1" group="Portugal Premium" logo=https://cdn.onlineradiobox.com/img/l/1/75481.v12.png size="Small" background="https://cdn.onlineradiobox.com/img/l/1/75481.v12.png", M80 Radio Soul
+https://stream-icy.bauermedia.pt/m80soul.aac
+#EXTINF:0 type="stream" channelId="-1" group="Portugal Premium" logo=https://cdn.onlineradiobox.com/img/l/6/71966.v16.png size="Small" background="https://cdn.onlineradiobox.com/img/l/6/71966.v16.png", Radio Comercial
+https://stream-icy.bauermedia.pt/comercial.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Portugal Premium" logo=https://cdn.onlineradiobox.com/img/l/7/106867.v6.png size="Small" background="https://cdn.onlineradiobox.com/img/l/7/106867.v6.png", Radio Comercial Best 2000
+https://bauermedia.pt/radioStream.aspx?radio=68&amp;type=AAC
+#EXTINF:0 type="stream" channelId="-1" group="Portugal Premium" logo=https://cdn.onlineradiobox.com/img/l/6/106866.v6.png size="Small" background="https://cdn.onlineradiobox.com/img/l/6/106866.v6.png", Radio Comercial Best 90's
+https://bauermedia.pt/radioStream.aspx?radio=69&amp;type=AAC
+#EXTINF:0 type="stream" channelId="-1" group="Portugal Premium" logo=https://cdn.onlineradiobox.com/img/l/5/106865.v7.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/106865.v7.png", Radio Comercial Brasil
+https://bauermedia.pt/radioStream.aspx?radio=73&amp;type=AAC
+#EXTINF:0 type="stream" channelId="-1" group="Portugal Premium" logo=https://cdn.onlineradiobox.com/img/l/3/106863.v8.png size="Small" background="https://cdn.onlineradiobox.com/img/l/3/106863.v8.png", Radio Comercial By Night
+https://bauermedia.pt/radioStream.aspx?radio=65&amp;type=AAC
+#EXTINF:0 type="stream" channelId="-1" group="Portugal Premium" logo=https://cdn.onlineradiobox.com/img/l/7/79497.v13.png size="Small" background="https://cdn.onlineradiobox.com/img/l/7/79497.v13.png", Radio Comercial Dance
+https://bauermedia.pt/radioStream.aspx?radio=53&amp;type=AAC
+#EXTINF:0 type="stream" channelId="-1" group="Portugal Premium" logo=https://cdn.onlineradiobox.com/img/l/4/106864.v7.png size="Small" background="https://cdn.onlineradiobox.com/img/l/4/106864.v7.png", Radio Comercial Kids
+https://bauermedia.pt/radioStream.aspx?radio=76&amp;type=AAC
+#EXTINF:0 type="stream" channelId="-1" group="Portugal Premium" logo=https://cdn.onlineradiobox.com/img/l/0/79500.v12.png size="Small" background="https://cdn.onlineradiobox.com/img/l/0/79500.v12.png", Radio Comercial Made in Portugal
+https://bauermedia.pt/radioStream.aspx?radio=64&amp;type=AAC
+#EXTINF:0 type="stream" channelId="-1" group="Portugal Premium" logo=https://cdn.onlineradiobox.com/img/l/8/79498.v11.png size="Small" background="https://cdn.onlineradiobox.com/img/l/8/79498.v11.png", Radio Comercial One Hit Wonders
+https://bauermedia.pt/radioStream.aspx?radio=57&amp;type=AAC
+#EXTINF:0 type="stream" channelId="-1" group="Portugal Premium" logo=https://cdn.onlineradiobox.com/img/l/6/79496.v15.png size="Small" background="https://cdn.onlineradiobox.com/img/l/6/79496.v15.png", Radio Comercial Rock
+https://bauermedia.pt/radioStream.aspx?radio=55&amp;type=ACC
+#EXTINF:0 type="stream" channelId="-1" group="Portugal Premium" logo=https://cdn.onlineradiobox.com/img/l/8/117138.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/8/117138.v4.png", Radio Comercial Santos Populares
+https://bauermedia.pt/radioStream.aspx?radio=79&amp;type=AAC
+#EXTINF:0 type="stream" channelId="-1" group="Portugal Premium" logo=https://cdn.onlineradiobox.com/img/l/7/117137.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/7/117137.v5.png", Radio Comercial Ucrânia
+https://stream-icy.bauermedia.pt/rcukrania.aac
+#EXTINF:0 type="stream" channelId="-1" group="Portugal Premium" logo=https://cdn.onlineradiobox.com/img/l/2/19452.v11.png size="Small" background="https://cdn.onlineradiobox.com/img/l/2/19452.v11.png", RFM
+https://playerservices.streamtheworld.com/api/livestream-redirect/RFM_SC?dist=onlineradiobox
+#EXTINF:0 type="stream" channelId="-1" group="Portugal Premium" logo=https://cdn.onlineradiobox.com/img/l/8/19458.v7.png size="Small" background="https://cdn.onlineradiobox.com/img/l/8/19458.v7.png", RFM 80s RFM
+https://playerservices.streamtheworld.com/api/livestream-redirect/GR80SRFMAAC_SC?dist=onlineradiobox
+#EXTINF:0 type="stream" channelId="-1" group="Portugal Premium" logo=https://cdn.onlineradiobox.com/img/l/2/75212.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/2/75212.v4.png", RFM Dancefloor
+https://playerservices.streamtheworld.com/api/livestream-redirect/DANCEONTHEFLOORAAC.aac?dist=onlineradiobox
+#EXTINF:0 type="stream" channelId="-1" group="Portugal Premium" logo=https://cdn.onlineradiobox.com/img/l/5/19455.v7.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/19455.v7.png", RFM Oceano Pacifico
+https://playerservices.streamtheworld.com/api/livestream-redirect/OCEANPACIFICAAC_SC?dist=onlineradiobox
+#EXTINF:0 type="stream" channelId="-1" group="Portugal Premium" logo=https://cdn.onlineradiobox.com/img/l/1/75211.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/1/75211.v3.png", RFM On The Rock
+https://playerservices.streamtheworld.com/api/livestream-redirect/RFMONTHEROCKAAC.aac?dist=onlineradiobox
+#EXTINF:0 type="stream" channelId="-1" group="Portugal Premium" logo=https://cdn.onlineradiobox.com/img/l/5/58255.v11.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/58255.v11.png", Smooth FM
+https://stream-icy.bauermedia.pt/smooth.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Portugal Premium" logo=https://cdn.onlineradiobox.com/img/l/4/75214.v10.png size="Small" background="https://cdn.onlineradiobox.com/img/l/4/75214.v10.png", Smooth FM Blues
+https://stream-icy.bauermedia.pt/smoblues.aac
+#EXTINF:0 type="stream" channelId="-1" group="Portugal Premium" logo=https://cdn.onlineradiobox.com/img/l/5/75215.v10.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/75215.v10.png", Smooth FM Bossa Nova
+https://stream-icy.bauermedia.pt/smobossa.aac
+#EXTINF:0 type="stream" channelId="-1" group="Portugal Premium" logo=https://cdn.onlineradiobox.com/img/l/2/106862.v6.png size="Small" background="https://cdn.onlineradiobox.com/img/l/2/106862.v6.png", Smooth FM Cool
+https://stream-icy.bauermedia.pt/smocool.aac
+#EXTINF:0 type="stream" channelId="-1" group="Portugal Premium" logo=https://cdn.onlineradiobox.com/img/l/1/106861.v6.png size="Small" background="https://cdn.onlineradiobox.com/img/l/1/106861.v6.png", Smooth FM Jazz
+https://stream-icy.bauermedia.pt/smojazz.aac
+#EXTINF:0 type="stream" channelId="-1" group="Portugal Premium" logo=https://cdn.onlineradiobox.com/img/l/3/75213.v11.png size="Small" background="https://cdn.onlineradiobox.com/img/l/3/75213.v11.png", Smooth FM Soul
+https://stream-icy.bauermedia.pt/smoothsoul.aac
+#EXTINF:0 type="stream" channelId="-1" group="Portugal Premium" logo=https://cdn.onlineradiobox.com/img/l/6/79516.v11.png size="Small" background="https://cdn.onlineradiobox.com/img/l/6/79516.v11.png", Smooth FM Vocal Jazz
+https://stream-icy.bauermedia.pt/smovocaljazz.aac
