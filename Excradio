@@ -303,6 +303,8 @@ https://streaming.exclusive.radio/er/drdre/icecast.audio
 https://streaming.exclusive.radio/er/drhook/icecast.audio
 #EXTINF:0 type="stream" channelId="-1" group="Exclusively" logo=https://cdn.onlineradiobox.com/img/l/1/91151.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/1/91151.v5.png", Drake
 https://streaming.exclusive.radio/er/drake/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Exclusively" logo=https://cdn.onlineradiobox.com/img/l/1/90941.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/1/90941.v5.png", Dua Lipa
+https://streaming.exclusive.radio/er/dualipa/icecast.audio
 #EXTINF:0 type="stream" channelId="-1" group="Exclusively" logo=https://cdn.onlineradiobox.com/img/l/8/91218.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/8/91218.v5.png", Duke Ellington
 https://streaming.exclusive.radio/er/dukeellington/icecast.audio
 #EXTINF:0 type="stream" channelId="-1" group="Exclusively" logo=https://cdn.onlineradiobox.com/img/l/4/91004.v8.png size="Small" background="https://cdn.onlineradiobox.com/img/l/4/91004.v8.png", Duran Duran
@@ -813,6 +815,8 @@ https://streaming.exclusive.radio/er/pharrellwilliams/icecast.audio
 https://streaming.exclusive.radio/er/philcollins/icecast.audio
 #EXTINF:0 type="stream" channelId="-1" group="Exclusively" logo=https://cdn.onlineradiobox.com/img/l/1/91391.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/1/91391.v4.png", Pilates
 https://streaming.exclusive.radio/er/pilates/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Exclusively" logo=https://cdn.onlineradiobox.com/img/l/2/90942.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/2/90942.v4.png", Pink
+https://streaming.exclusive.radio/er/pink/icecast.audio
 #EXTINF:0 type="stream" channelId="-1" group="Exclusively" logo=https://cdn.onlineradiobox.com/img/l/8/91208.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/8/91208.v4.png", Pink Floyd
 https://streaming.exclusive.radio/er/pinkfloyd/icecast.audio
 #EXTINF:0 type="stream" channelId="-1" group="Exclusively" logo=https://cdn.onlineradiobox.com/img/l/2/101182.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/2/101182.v3.png", Pixies
