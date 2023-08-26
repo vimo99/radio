@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="-1" group="Exclusively" logo=https://cdn.onlineradiobox.com/img/l/9/91139.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/9/91139.v5.png",  Chicks
-https://streaming.exclusive.radio/er/dixiechicks/icecast.audio
 #EXTINF:0 type="stream" channelId="-1" group="Exclusively" logo=https://cdn.onlineradiobox.com/img/l/7/97827.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/7/97827.v5.png", 10cc
 https://streaming.exclusive.radio/er/10cc/icecast.audio
 #EXTINF:0 type="stream" channelId="-1" group="Exclusively" logo=https://cdn.onlineradiobox.com/img/l/3/116953.v1.png size="Small" background="https://cdn.onlineradiobox.com/img/l/3/116953.v1.png", 2Pac
@@ -209,6 +207,8 @@ https://streaming.exclusive.radio/er/cheaptrick/icecast.audio
 https://streaming.exclusive.radio/er/cher/icecast.audio
 #EXTINF:0 type="stream" channelId="-1" group="Exclusively" logo=https://cdn.onlineradiobox.com/img/l/2/97972.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/2/97972.v4.png", Chic
 https://streaming.exclusive.radio/er/chic/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Exclusively" logo=https://cdn.onlineradiobox.com/img/l/9/91139.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/9/91139.v5.png",  Chicks
+https://streaming.exclusive.radio/er/dixiechicks/icecast.audio
 #EXTINF:0 type="stream" channelId="-1" group="Exclusively" logo=https://cdn.onlineradiobox.com/img/l/0/91020.v6.png size="Small" background="https://cdn.onlineradiobox.com/img/l/0/91020.v6.png", Chicago
 https://streaming.exclusive.radio/er/chicago/icecast.audio
 #EXTINF:0 type="stream" channelId="-1" group="Exclusively" logo=https://cdn.onlineradiobox.com/img/l/0/118170.v1.png size="Small" background="https://cdn.onlineradiobox.com/img/l/0/118170.v1.png", Chick Corea
@@ -1127,6 +1127,162 @@ https://streaming.exclusive.radio/er/zztop/icecast.audio
 https://streaming.exclusive.radio/er/zen/icecast.audio
 #EXTINF:0 type="stream" channelId="-1" group="Exclusively" logo=https://cdn.onlineradiobox.com/img/l/5/101195.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/101195.v3.png", Ziggy Marley
 https://streaming.exclusive.radio/er/ziggymarley/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/4/90864.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/4/90864.v4.png",  2010s
+https://streaming.positivity.radio/pr/posi10s/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/7/90867.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/7/90867.v5.png",  30s
+https://streaming.positivity.radio/pr/1930/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/0/90870.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/0/90870.v4.png",  60s
+https://streaming.positivity.radio/pr/posi60s/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/1/90871.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/1/90871.v4.png",  70s
+https://streaming.positivity.radio/pr/posi70s/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/2/90872.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/2/90872.v4.png",  80s
+https://streaming.positivity.radio/pr/posi80s/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/7/90837.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/7/90837.v4.png",  Birdsong
+https://streaming.positivity.radio/pr/posibirdsong/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/5/90835.v6.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/90835.v6.png",  Cascade
+https://streaming.positivity.radio/pr/posicascade/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/5/90865.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/90865.v4.png",  Noughties
+https://streaming.positivity.radio/pr/posi00s/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/3/90833.v6.png size="Small" background="https://cdn.onlineradiobox.com/img/l/3/90833.v6.png",  Ocean
+https://streaming.positivity.radio/pr/posiocean/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/7/90887.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/7/90887.v3.png",  Vibe
+https://streaming.positivity.radio/pr/posivibe/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/6/90866.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/6/90866.v4.png", 1920s
+https://streaming.positivity.radio/pr/1920/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/8/90868.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/8/90868.v4.png", 40s
+https://streaming.positivity.radio/pr/1940/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/9/90869.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/9/90869.v4.png", 50s
+https://streaming.positivity.radio/pr/1950/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/3/90873.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/3/90873.v4.png", 90s
+https://streaming.positivity.radio/pr/posi90s/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/1/90841.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/1/90841.v4.png", Bowls
+https://streaming.positivity.radio/pr/bowls/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/2/90842.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/2/90842.v5.png", Calm
+https://streaming.positivity.radio/pr/calm/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/3/104243.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/3/104243.v4.png", Calm Kids
+https://streaming.positivity.radio/pr/calmkids/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/0/90890.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/0/90890.v3.png", Calming 396 Hz
+https://streaming.positivity.radio/pr/calming/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/6/90836.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/6/90836.v5.png", Chants
+https://streaming.positivity.radio/pr/chants/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/2/90862.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/2/90862.v4.png", Classical
+https://streaming.positivity.radio/pr/posiclassical/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/2/90892.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/2/90892.v3.png", Compassion 639 Hz
+https://streaming.positivity.radio/pr/compassion/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/7/90877.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/7/90877.v4.png", Country
+https://streaming.positivity.radio/pr/country/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/3/90893.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/3/90893.v4.png", Detox 741 Hz
+https://streaming.positivity.radio/pr/detox/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/5/90875.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/90875.v4.png", Easy
+https://streaming.positivity.radio/pr/posieasy/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/6/90886.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/6/90886.v3.png", Energy
+https://streaming.positivity.radio/pr/energy/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/6/90896.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/6/90896.v3.png", Enlightening 936 Hz
+https://streaming.positivity.radio/pr/enlightening/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/3/90883.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/3/90883.v4.png", Gold
+https://streaming.positivity.radio/pr/posigold/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/9/90839.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/9/90839.v4.png", Gongs
+https://streaming.positivity.radio/pr/gongs/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/2/90882.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/2/90882.v4.png", Good Evening
+https://streaming.positivity.radio/pr/goodevening/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/0/90880.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/0/90880.v4.png", Good Morning
+https://streaming.positivity.radio/pr/goodmorning/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/4/90874.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/4/90874.v4.png", Happy
+https://streaming.positivity.radio/pr/happy/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/9/104239.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/9/104239.v4.png", Harp
+https://streaming.positivity.radio/pr/harp/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/9/90889.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/9/90889.v3.png", Healing 285Hz
+https://streaming.positivity.radio/pr/healing/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/9/90849.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/9/90849.v4.png", High  Energy Workout
+https://streaming.positivity.radio/pr/energyworkout/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/5/90895.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/90895.v3.png", Intuition 852 Hz
+https://streaming.positivity.radio/pr/intuition/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/9/90879.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/9/90879.v4.png", Jazz
+https://streaming.positivity.radio/pr/jazz/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/6/90876.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/6/90876.v4.png", Love
+https://streaming.positivity.radio/pr/posilove/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/3/90853.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/3/90853.v4.png", Massage
+https://streaming.positivity.radio/pr/massage/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/4/90834.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/4/90834.v4.png", Meditation
+https://streaming.positivity.radio/pr/posimeditation/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/4/90854.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/4/90854.v4.png", Motivation
+https://streaming.positivity.radio/pr/motivation/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/8/90888.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/8/90888.v3.png", Pain Relief 174Hz
+https://streaming.positivity.radio/pr/painrelief/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/0/90840.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/0/90840.v4.png", Pan Pipes
+https://streaming.positivity.radio/pr/panpipes/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/2/126082.v2.png size="Small" background="https://cdn.onlineradiobox.com/img/l/2/126082.v2.png", Peaceful 432Hz
+https://streaming.positivity.radio/pr/posipeaceful/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/1/104241.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/1/104241.v4.png", Piano
+https://streaming.positivity.radio/pr/piano/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/5/90845.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/90845.v4.png", Pilates
+https://streaming.positivity.radio/pr/pilates/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/4/90844.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/4/90844.v4.png", Plants
+https://streaming.positivity.radio/pr/posiplants/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/5/90885.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/90885.v3.png", Reiki
+https://streaming.positivity.radio/pr/reiki/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/4/90894.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/4/90894.v3.png", Rejuvinate 528 Hz
+https://streaming.positivity.radio/pr/rejuvenate/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/5/104235.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/104235.v3.png", Relaxation
+https://streaming.positivity.radio/pr/relaxation/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/2/90852.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/2/90852.v4.png", Relaxing Workout
+https://streaming.positivity.radio/pr/workoutrelax/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/8/90878.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/8/90878.v4.png", Rock
+https://streaming.positivity.radio/pr/rock/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/8/90848.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/8/90848.v4.png", Running
+https://streaming.positivity.radio/pr/running/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/6/90856.v6.png size="Small" background="https://cdn.onlineradiobox.com/img/l/6/90856.v6.png", Sleep Baby
+https://streaming.positivity.radio/pr/sleepbaby/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/9/90859.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/9/90859.v4.png", Sleep Classical
+https://streaming.positivity.radio/pr/sleepclassical/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/7/90857.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/7/90857.v4.png", Sleep Kids
+https://streaming.positivity.radio/pr/sleepkids/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/8/90858.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/8/90858.v4.png", Sleep Max Richter
+https://streaming.positivity.radio/pr/maxrichter/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/5/90855.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/90855.v4.png", Sleep Relax
+https://streaming.positivity.radio/pr/sleeprelax/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/0/90860.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/0/90860.v4.png", Sleep Tones
+https://streaming.positivity.radio/pr/sleeptones/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/1/90861.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/1/90861.v4.png", Sleepy
+https://streaming.positivity.radio/pr/posisleepy/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/8/104238.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/8/104238.v4.png", Soothing Instrumental
+https://streaming.positivity.radio/pr/soothinginstrumental/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/2/104232.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/2/104232.v5.png", Soundscapes
+https://streaming.positivity.radio/pr/soundscapes/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/4/104234.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/4/104234.v4.png", Spa
+https://streaming.positivity.radio/pr/spa/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/6/104236.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/6/104236.v5.png", Stress Relief
+https://streaming.positivity.radio/pr/stressrelief/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/7/90897.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/7/90897.v3.png", Successful
+https://streaming.positivity.radio/pr/posisuccessful/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/3/90843.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/3/90843.v4.png", Tai Chi
+https://streaming.positivity.radio/pr/taichi/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/3/90863.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/3/90863.v5.png", Tranquil
+https://streaming.positivity.radio/pr/positranquil/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/1/90891.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/1/90891.v3.png", Uplifting 417Hz
+https://streaming.positivity.radio/pr/uplifting/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/4/90884.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/4/90884.v3.png", Vibrant
+https://streaming.positivity.radio/pr/vibrant/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/8/90838.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/8/90838.v4.png", Zen
+https://streaming.positivity.radio/pr/zen/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Tinder" logo=https://cdn.onlineradiobox.com/img/l/3/97933.v6.png size="Small" background="https://cdn.onlineradiobox.com/img/l/3/97933.v6.png", Radio Afrobeats
+https://streaming.exclusive.radio/er/afrobeats/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Tinder" logo=https://cdn.onlineradiobox.com/img/l/2/91272.v6.png size="Small" background="https://cdn.onlineradiobox.com/img/l/2/91272.v6.png", Radio Beach Party
+https://streaming.exclusive.radio/er/beachparty/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Tinder" logo=https://cdn.onlineradiobox.com/img/l/3/91363.v6.png size="Small" background="https://cdn.onlineradiobox.com/img/l/3/91363.v6.png", Radio Bollywood
+https://streaming.exclusive.radio/er/bollywood/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Tinder" logo=https://cdn.onlineradiobox.com/img/l/3/91273.v6.png size="Small" background="https://cdn.onlineradiobox.com/img/l/3/91273.v6.png", Radio Christmas Carols
+https://streaming.exclusive.radio/er/christmascarols/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Tinder" logo=https://cdn.onlineradiobox.com/img/l/4/91274.v6.png size="Small" background="https://cdn.onlineradiobox.com/img/l/4/91274.v6.png", Radio Christmas Pop
+https://streaming.exclusive.radio/er/christmaspop/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Tinder" logo=https://cdn.onlineradiobox.com/img/l/1/91281.v6.png size="Small" background="https://cdn.onlineradiobox.com/img/l/1/91281.v6.png", Radio Club
+https://streaming.exclusive.radio/er/club/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Tinder" logo=https://cdn.onlineradiobox.com/img/l/7/91337.v6.png size="Small" background="https://cdn.onlineradiobox.com/img/l/7/91337.v6.png", Radio Dance Chill
+https://streaming.exclusive.radio/er/chilldance/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Tinder" logo=https://cdn.onlineradiobox.com/img/l/1/91361.v6.png size="Small" background="https://cdn.onlineradiobox.com/img/l/1/91361.v6.png", Radio Deutsche Musik
+https://streaming.exclusive.radio/er/deutschemusik/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Tinder" logo=https://cdn.onlineradiobox.com/img/l/0/91280.v6.png size="Small" background="https://cdn.onlineradiobox.com/img/l/0/91280.v6.png", Radio Disco
+https://streaming.exclusive.radio/er/disco/icecast.audio
 #EXTINF:0 type="stream" channelId="-1" group="Tinder" logo=https://cdn.onlineradiobox.com/img/l/1/90881.v9.png size="Small" background="https://cdn.onlineradiobox.com/img/l/1/90881.v9.png", Radio Good Afternoon
 https://streaming.positivity.radio/pr/goodafternoon/icecast.audio
 #EXTINF:0 type="stream" channelId="-1" group="Tinder" logo=https://cdn.onlineradiobox.com/img/l/8/91268.v8.png size="Small" background="https://cdn.onlineradiobox.com/img/l/8/91268.v8.png", Radio Good Evening
@@ -1135,195 +1291,1051 @@ https://streaming.exclusive.radio/er/goodevening/icecast.audio
 https://streaming.exclusive.radio/er/goodmorning/icecast.audio
 #EXTINF:0 type="stream" channelId="-1" group="Tinder" logo=https://cdn.onlineradiobox.com/img/l/4/97604.v8.png size="Small" background="https://cdn.onlineradiobox.com/img/l/4/97604.v8.png", Radio Good Night
 https://streaming.exclusive.radio/er/goodnight/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Tinder" logo=https://cdn.onlineradiobox.com/img/l/3/91273.v6.png size="Small" background="https://cdn.onlineradiobox.com/img/l/3/91273.v6.png", Radio Christmas Carols
-https://streaming.exclusive.radio/er/christmascarols/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Tinder" logo=https://cdn.onlineradiobox.com/img/l/4/91274.v6.png size="Small" background="https://cdn.onlineradiobox.com/img/l/4/91274.v6.png", Radio Christmas Pop
-https://streaming.exclusive.radio/er/christmaspop/icecast.audio
 #EXTINF:0 type="stream" channelId="-1" group="Tinder" logo=https://cdn.onlineradiobox.com/img/l/2/97992.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/2/97992.v5.png", Radio Happy
 https://streaming.exclusive.radio/er/happy/icecast.audio
 #EXTINF:0 type="stream" channelId="-1" group="Tinder" logo=https://cdn.onlineradiobox.com/img/l/3/97993.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/3/97993.v4.png", Radio Hollywood & Broadway Musicals
 https://streaming.exclusive.radio/er/hollywoodandbroadway/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Tinder" logo=https://cdn.onlineradiobox.com/img/l/9/98019.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/9/98019.v4.png", Radio Movie & TV Themes
-https://streaming.exclusive.radio/er/movieandtvthemes/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Tinder" logo=https://cdn.onlineradiobox.com/img/l/1/91271.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/1/91271.v5.png", Radio Party
-https://streaming.exclusive.radio/er/party/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Tinder" logo=https://cdn.onlineradiobox.com/img/l/5/91275.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/91275.v5.png", Radio Rock N Roll Party
-https://streaming.exclusive.radio/er/rocknrollparty/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Tinder" logo=https://cdn.onlineradiobox.com/img/l/0/91270.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/0/91270.v5.png", Radio Wedding
-https://streaming.exclusive.radio/er/wedding/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Tinder" logo=https://cdn.onlineradiobox.com/img/l/9/91269.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/9/91269.v5.png", Radio Wedding Classical
-https://streaming.exclusive.radio/er/weddingclassical/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Tinder" logo=https://cdn.onlineradiobox.com/img/l/1/103241.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/1/103241.v5.png", Radio TikTok Trending
-https://streaming.exclusive.radio/er/tiktoktrending/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Tinder" logo=https://cdn.onlineradiobox.com/img/l/2/91272.v6.png size="Small" background="https://cdn.onlineradiobox.com/img/l/2/91272.v6.png", Radio Beach Party
-https://streaming.exclusive.radio/er/beachparty/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Tinder" logo=https://cdn.onlineradiobox.com/img/l/1/91281.v6.png size="Small" background="https://cdn.onlineradiobox.com/img/l/1/91281.v6.png", Radio Club
-https://streaming.exclusive.radio/er/club/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Tinder" logo=https://cdn.onlineradiobox.com/img/l/7/91337.v6.png size="Small" background="https://cdn.onlineradiobox.com/img/l/7/91337.v6.png", Radio Dance Chill
-https://streaming.exclusive.radio/er/chilldance/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Tinder" logo=https://cdn.onlineradiobox.com/img/l/0/91280.v6.png size="Small" background="https://cdn.onlineradiobox.com/img/l/0/91280.v6.png", Radio Disco
-https://streaming.exclusive.radio/er/disco/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Tinder" logo=https://cdn.onlineradiobox.com/img/l/1/90921.v8.png size="Small" background="https://cdn.onlineradiobox.com/img/l/1/90921.v8.png", Radio Hot Hits
+https://streaming.exclusive.radio/er/chart/icecast.audio
 #EXTINF:0 type="stream" channelId="-1" group="Tinder" logo=https://cdn.onlineradiobox.com/img/l/7/91277.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/7/91277.v5.png", Radio Ibiza
 https://streaming.exclusive.radio/er/ibiza/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Tinder" logo=https://cdn.onlineradiobox.com/img/l/8/91338.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/8/91338.v5.png", Radio Ministry of Sound
-https://streaming.exclusive.radio/er/ministryofsound/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Tinder" logo=https://cdn.onlineradiobox.com/img/l/9/91339.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/9/91339.v5.png", Radio Party Anthems
-https://streaming.exclusive.radio/er/partyanthems/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Tinder" logo=https://cdn.onlineradiobox.com/img/l/9/91279.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/9/91279.v5.png", Radio Rave
-https://streaming.exclusive.radio/er/rave/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Tinder" logo=https://cdn.onlineradiobox.com/img/l/3/97933.v6.png size="Small" background="https://cdn.onlineradiobox.com/img/l/3/97933.v6.png", Radio Afrobeats
-https://streaming.exclusive.radio/er/afrobeats/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Tinder" logo=https://cdn.onlineradiobox.com/img/l/3/91363.v6.png size="Small" background="https://cdn.onlineradiobox.com/img/l/3/91363.v6.png", Radio Bollywood
-https://streaming.exclusive.radio/er/bollywood/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Tinder" logo=https://cdn.onlineradiobox.com/img/l/1/91361.v6.png size="Small" background="https://cdn.onlineradiobox.com/img/l/1/91361.v6.png", Radio Deutsche Musik
-https://streaming.exclusive.radio/er/deutschemusik/icecast.audio
 #EXTINF:0 type="stream" channelId="-1" group="Tinder" logo=https://cdn.onlineradiobox.com/img/l/4/91364.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/4/91364.v5.png", Radio Italy
 https://streaming.exclusive.radio/er/italy/icecast.audio
 #EXTINF:0 type="stream" channelId="-1" group="Tinder" logo=https://cdn.onlineradiobox.com/img/l/2/91362.v7.png size="Small" background="https://cdn.onlineradiobox.com/img/l/2/91362.v7.png", Radio J Pop
 https://streaming.exclusive.radio/er/jpop/icecast.audio
 #EXTINF:0 type="stream" channelId="-1" group="Tinder" logo=https://cdn.onlineradiobox.com/img/l/0/91360.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/0/91360.v5.png", Radio K Pop
 https://streaming.exclusive.radio/er/kpop/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Tinder" logo=https://cdn.onlineradiobox.com/img/l/8/91338.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/8/91338.v5.png", Radio Ministry of Sound
+https://streaming.exclusive.radio/er/ministryofsound/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Tinder" logo=https://cdn.onlineradiobox.com/img/l/9/98019.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/9/98019.v4.png", Radio Movie & TV Themes
+https://streaming.exclusive.radio/er/movieandtvthemes/icecast.audio
 #EXTINF:0 type="stream" channelId="-1" group="Tinder" logo=https://cdn.onlineradiobox.com/img/l/7/91367.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/7/91367.v5.png", Radio Musique Francaise
 https://streaming.exclusive.radio/er/musiquefrancaise/icecast.audio
 #EXTINF:0 type="stream" channelId="-1" group="Tinder" logo=https://cdn.onlineradiobox.com/img/l/6/91366.v6.png size="Small" background="https://cdn.onlineradiobox.com/img/l/6/91366.v6.png", Radio New Zealand
 https://streaming.exclusive.radio/er/nzmusic/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Tinder" logo=https://cdn.onlineradiobox.com/img/l/1/90921.v8.png size="Small" background="https://cdn.onlineradiobox.com/img/l/1/90921.v8.png", Radio Hot Hits
-https://streaming.exclusive.radio/er/chart/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/4/90834.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/4/90834.v4.png", Meditation
-https://streaming.positivity.radio/pr/posimeditation/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/3/90833.v6.png size="Small" background="https://cdn.onlineradiobox.com/img/l/3/90833.v6.png",  Ocean
-https://streaming.positivity.radio/pr/posiocean/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/5/90835.v6.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/90835.v6.png",  Cascade
-https://streaming.positivity.radio/pr/posicascade/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/6/90836.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/6/90836.v5.png", Chants
-https://streaming.positivity.radio/pr/chants/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/7/90837.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/7/90837.v4.png",  Birdsong
-https://streaming.positivity.radio/pr/posibirdsong/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/8/90838.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/8/90838.v4.png", Zen
-https://streaming.positivity.radio/pr/zen/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/9/90839.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/9/90839.v4.png", Gongs
-https://streaming.positivity.radio/pr/gongs/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/0/90840.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/0/90840.v4.png", Pan Pipes
-https://streaming.positivity.radio/pr/panpipes/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/1/90841.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/1/90841.v4.png", Bowls
-https://streaming.positivity.radio/pr/bowls/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/2/90842.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/2/90842.v5.png", Calm
-https://streaming.positivity.radio/pr/calm/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/3/90843.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/3/90843.v4.png", Tai Chi
-https://streaming.positivity.radio/pr/taichi/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/4/90844.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/4/90844.v4.png", Plants
-https://streaming.positivity.radio/pr/posiplants/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/5/90845.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/90845.v4.png", Pilates
-https://streaming.positivity.radio/pr/pilates/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/8/90848.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/8/90848.v4.png", Running
-https://streaming.positivity.radio/pr/running/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/9/90849.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/9/90849.v4.png", High  Energy Workout
-https://streaming.positivity.radio/pr/energyworkout/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/2/90852.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/2/90852.v4.png", Relaxing Workout
-https://streaming.positivity.radio/pr/workoutrelax/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/3/90853.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/3/90853.v4.png", Massage
-https://streaming.positivity.radio/pr/massage/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/4/90854.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/4/90854.v4.png", Motivation
-https://streaming.positivity.radio/pr/motivation/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/5/90855.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/90855.v4.png", Sleep Relax
-https://streaming.positivity.radio/pr/sleeprelax/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/6/90856.v6.png size="Small" background="https://cdn.onlineradiobox.com/img/l/6/90856.v6.png", Sleep Baby
-https://streaming.positivity.radio/pr/sleepbaby/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/7/90857.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/7/90857.v4.png", Sleep Kids
-https://streaming.positivity.radio/pr/sleepkids/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/8/90858.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/8/90858.v4.png", Sleep Max Richter
-https://streaming.positivity.radio/pr/maxrichter/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/9/90859.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/9/90859.v4.png", Sleep Classical
-https://streaming.positivity.radio/pr/sleepclassical/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/0/90860.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/0/90860.v4.png", Sleep Tones
-https://streaming.positivity.radio/pr/sleeptones/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/1/90861.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/1/90861.v4.png", Sleepy
-https://streaming.positivity.radio/pr/posisleepy/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/2/90862.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/2/90862.v4.png", Classical
-https://streaming.positivity.radio/pr/posiclassical/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/3/90863.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/3/90863.v5.png", Tranquil
-https://streaming.positivity.radio/pr/positranquil/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/4/90864.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/4/90864.v4.png",  2010s
-https://streaming.positivity.radio/pr/posi10s/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/5/90865.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/90865.v4.png",  Noughties
-https://streaming.positivity.radio/pr/posi00s/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/6/90866.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/6/90866.v4.png", 1920s
-https://streaming.positivity.radio/pr/1920/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/7/90867.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/7/90867.v5.png",  30s
-https://streaming.positivity.radio/pr/1930/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/8/90868.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/8/90868.v4.png", 40s
-https://streaming.positivity.radio/pr/1940/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/9/90869.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/9/90869.v4.png", 50s
-https://streaming.positivity.radio/pr/1950/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/0/90870.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/0/90870.v4.png",  60s
-https://streaming.positivity.radio/pr/posi60s/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/1/90871.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/1/90871.v4.png",  70s
-https://streaming.positivity.radio/pr/posi70s/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/2/90872.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/2/90872.v4.png",  80s
-https://streaming.positivity.radio/pr/posi80s/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/3/90873.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/3/90873.v4.png", 90s
-https://streaming.positivity.radio/pr/posi90s/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/4/90874.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/4/90874.v4.png", Happy
-https://streaming.positivity.radio/pr/happy/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/5/90875.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/90875.v4.png", Easy
-https://streaming.positivity.radio/pr/posieasy/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/6/90876.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/6/90876.v4.png", Love
-https://streaming.positivity.radio/pr/posilove/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/7/90877.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/7/90877.v4.png", Country
-https://streaming.positivity.radio/pr/country/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/8/90878.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/8/90878.v4.png", Rock
-https://streaming.positivity.radio/pr/rock/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/9/90879.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/9/90879.v4.png", Jazz
-https://streaming.positivity.radio/pr/jazz/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/0/90880.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/0/90880.v4.png", Good Morning
-https://streaming.positivity.radio/pr/goodmorning/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/4/104234.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/4/104234.v4.png", Spa
-https://streaming.positivity.radio/pr/spa/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/2/90882.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/2/90882.v4.png", Good Evening
-https://streaming.positivity.radio/pr/goodevening/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/3/90883.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/3/90883.v4.png", Gold
-https://streaming.positivity.radio/pr/posigold/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/4/90884.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/4/90884.v3.png", Vibrant
-https://streaming.positivity.radio/pr/vibrant/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/5/90885.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/90885.v3.png", Reiki
-https://streaming.positivity.radio/pr/reiki/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/6/90886.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/6/90886.v3.png", Energy
-https://streaming.positivity.radio/pr/energy/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/7/90887.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/7/90887.v3.png",  Vibe
-https://streaming.positivity.radio/pr/posivibe/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/8/90888.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/8/90888.v3.png", Pain Relief 174Hz
-https://streaming.positivity.radio/pr/painrelief/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/9/90889.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/9/90889.v3.png", Healing 285Hz
-https://streaming.positivity.radio/pr/healing/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/0/90890.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/0/90890.v3.png", Calming 396 Hz
-https://streaming.positivity.radio/pr/calming/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/1/90891.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/1/90891.v3.png", Uplifting 417Hz
-https://streaming.positivity.radio/pr/uplifting/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/2/90892.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/2/90892.v3.png", Compassion 639 Hz
-https://streaming.positivity.radio/pr/compassion/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/3/90893.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/3/90893.v4.png", Detox 741 Hz
-https://streaming.positivity.radio/pr/detox/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/4/90894.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/4/90894.v3.png", Rejuvinate 528 Hz
-https://streaming.positivity.radio/pr/rejuvenate/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/5/90895.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/90895.v3.png", Intuition 852 Hz
-https://streaming.positivity.radio/pr/intuition/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/6/90896.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/6/90896.v3.png", Enlightening 936 Hz
-https://streaming.positivity.radio/pr/enlightening/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/7/90897.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/7/90897.v3.png", Successful
-https://streaming.positivity.radio/pr/posisuccessful/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/2/104232.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/2/104232.v5.png", Soundscapes
-https://streaming.positivity.radio/pr/soundscapes/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/5/104235.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/104235.v3.png", Relaxation
-https://streaming.positivity.radio/pr/relaxation/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/6/104236.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/6/104236.v5.png", Stress Relief
-https://streaming.positivity.radio/pr/stressrelief/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/8/104238.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/8/104238.v4.png", Soothing Instrumental
-https://streaming.positivity.radio/pr/soothinginstrumental/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/9/104239.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/9/104239.v4.png", Harp
-https://streaming.positivity.radio/pr/harp/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/1/104241.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/1/104241.v4.png", Piano
-https://streaming.positivity.radio/pr/piano/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/3/104243.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/3/104243.v4.png", Calm Kids
-https://streaming.positivity.radio/pr/calmkids/icecast.audio
-#EXTINF:0 type="stream" channelId="-1" group="Positively" logo=https://cdn.onlineradiobox.com/img/l/2/126082.v2.png size="Small" background="https://cdn.onlineradiobox.com/img/l/2/126082.v2.png", Peaceful 432Hz
-https://streaming.positivity.radio/pr/posipeaceful/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Tinder" logo=https://cdn.onlineradiobox.com/img/l/1/91271.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/1/91271.v5.png", Radio Party
+https://streaming.exclusive.radio/er/party/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Tinder" logo=https://cdn.onlineradiobox.com/img/l/9/91339.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/9/91339.v5.png", Radio Party Anthems
+https://streaming.exclusive.radio/er/partyanthems/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Tinder" logo=https://cdn.onlineradiobox.com/img/l/9/91279.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/9/91279.v5.png", Radio Rave
+https://streaming.exclusive.radio/er/rave/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Tinder" logo=https://cdn.onlineradiobox.com/img/l/5/91275.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/91275.v5.png", Radio Rock N Roll Party
+https://streaming.exclusive.radio/er/rocknrollparty/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Tinder" logo=https://cdn.onlineradiobox.com/img/l/1/103241.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/1/103241.v5.png", Radio TikTok Trending
+https://streaming.exclusive.radio/er/tiktoktrending/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Tinder" logo=https://cdn.onlineradiobox.com/img/l/0/91270.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/0/91270.v5.png", Radio Wedding
+https://streaming.exclusive.radio/er/wedding/icecast.audio
+#EXTINF:0 type="stream" channelId="-1" group="Tinder" logo=https://cdn.onlineradiobox.com/img/l/9/91269.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/9/91269.v5.png", Radio Wedding Classical
+https://streaming.exclusive.radio/er/weddingclassical/icecast.audio
+EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/0/19410.v12.png size="Small" background="https://cdn.onlineradiobox.com/img/l/0/19410.v12.png", 105.4 Cascais FM
+https://sp0.redeaudio.com/9956/;;/stream.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/0/88760.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/0/88760.v5.png", 4Drive Jazz
+https://radio.streemlion.com:1155/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/5/81065.v25.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/81065.v25.png", 4FM
+https://s41.radiolize.com/radio/8150/radio.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/8/19408.v15.png size="Small" background="https://cdn.onlineradiobox.com/img/l/8/19408.v15.png", 92.6FM
+https://sp0.redeaudio.com/9802/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/9/20179.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/9/20179.v3.png", ABC Portugal FM
+https://centova.radio.com.pt/proxy/547?mp=/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/5/126325.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/126325.v3.png", Agora Varandas
+https://servidor24-1.brlogic.com:7234/live
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/8/20208.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/8/20208.v4.png", Alive FM
+https://radios2.justweb.pt/8002/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/6/77226.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/6/77226.v3.png", Alternativa Rádio Pt
+https://sp0.redeaudio.com/9870/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/6/19466.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/6/19466.v3.png", Amalia FM
+https://onlineradiobox.com/json/pt/amalia/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/3/113623.v2.png size="Small" background="https://cdn.onlineradiobox.com/img/l/3/113623.v2.png", Amigosderadio
+https://onlineradiobox.com/json/pt/amigosde/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/8/94758.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/8/94758.v5.png", Amizade_interna
+https://sonicpanel.oficialserver.com:7023/;stream.nsv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/4/109514.v1.png size="Small" background="https://cdn.onlineradiobox.com/img/l/4/109514.v1.png", Amor Portugal Radio
+https://stream.zeno.fm/yyue51ta998uv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/5/45585.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/45585.v5.png", Antena 1
+https://streaming-live.rtp.pt/liveradio/antena180a/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/6/45586.v6.png size="Small" background="https://cdn.onlineradiobox.com/img/l/6/45586.v6.png", Antena 2
+https://streaming-live.rtp.pt/liveradio/antena280a/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/7/45587.v10.png size="Small" background="https://cdn.onlineradiobox.com/img/l/7/45587.v10.png", Antena 3
+https://onlineradiobox.com/json/pt/rtpantena3/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/4/19774.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/4/19774.v3.png", Antena Minho
+https://centova.radio.com.pt/proxy/464?mp=/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/8/20038.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/8/20038.v3.png", Antena Nove
+https://onlineradiobox.com/json/pt/nove/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/7/90727.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/7/90727.v5.png", Antena Sul
+https://nl.digitalrm.pt:8022/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/7/104417.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/7/104417.v3.png", Aveiro Veneza De Portugal
+https://ssl.stmxp.net:7182/index
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/0/84640.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/0/84640.v4.png", Açores 9 Rádio
+https://ssl.voxhd.com.br:7300/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/5/19925.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/19925.v4.png", Barca Fm Rádio
+https://onlineradiobox.com/json/pt/barca996/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/8/58168.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/8/58168.v5.png", Beach Radio
+https://beach-radio.stream.laut.fm/beach-radio
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/6/103746.v19.png size="Small" background="https://cdn.onlineradiobox.com/img/l/6/103746.v19.png", Beat Fm Rádio
+https://rs2.ptservidor.com/proxy/incrivei?mp=/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/6/86056.v8.png size="Small" background="https://cdn.onlineradiobox.com/img/l/6/86056.v8.png", Bitter Sweet Music PT
+https://onlineradiobox.com/json/pt/bittersweetmusicpt/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/9/85469.v6.png size="Small" background="https://cdn.onlineradiobox.com/img/l/9/85469.v6.png", Brazuca Flash
+https://onlineradiobox.com/json/pt/brazucaflash/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/6/19156.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/6/19156.v5.png", CC RADIO PORTUGAL
+https://stm2.painelcast.com:7542/;
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/6/97066.v13.png size="Small" background="https://cdn.onlineradiobox.com/img/l/6/97066.v13.png", Cabriz Radio Sintra 107 FM
+https://ssl.xcast.com.br:10996/;stream.nsv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/0/20040.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/0/20040.v4.png", Canal FM 100.5
+https://onlineradiobox.com/json/pt/canal1005/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/7/19497.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/7/19497.v4.png", Cantinho da Madeira
+https://onlineradiobox.com/json/pt/cantinhodamadeira/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/1/71601.v15.png size="Small" background="https://cdn.onlineradiobox.com/img/l/1/71601.v15.png", Cidade FM
+https://stream-icy.bauermedia.pt/cidade.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/3/118913.v2.png size="Small" background="https://cdn.onlineradiobox.com/img/l/3/118913.v2.png", Circuito Full Mix
+https://circuitoradio.online/radio/8010/CircuitoFullMix
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/7/19597.v2.png size="Small" background="https://cdn.onlineradiobox.com/img/l/7/19597.v2.png", Cister FM
+https://onlineradiobox.com/json/pt/cister/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/2/85482.v7.png size="Small" background="https://cdn.onlineradiobox.com/img/l/2/85482.v7.png", Classic Rock Portugal
+https://onlineradiobox.com/json/pt/classicrock/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/2/19592.v6.png size="Small" background="https://cdn.onlineradiobox.com/img/l/2/19592.v6.png", Clube da Covilhã
+https://onlineradiobox.com/json/pt/covilha/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/8/116308.v2.png size="Small" background="https://cdn.onlineradiobox.com/img/l/8/116308.v2.png", Costa Verde Radio
+https://sonic1.transmissaodigital.com/8062/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/8/108628.v1.png size="Small" background="https://cdn.onlineradiobox.com/img/l/8/108628.v1.png", D4RK FM
+https://stream.zeno.fm/sm12yf0ta78uv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/5/101695.v10.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/101695.v10.png", DMR Dance Mix Radio
+https://stream.zeno.fm/0tc6vdd57p8uv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/4/19164.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/4/19164.v3.png", Diana FM
+https://onlineradiobox.com/json/pt/diana/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/5/124285.v7.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/124285.v7.png", Digital Radio Romania
+https://radio.sonicpanel.ro/8058/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/1/19731.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/1/19731.v4.png", Diário de Notícias Madeira
+https://onlineradiobox.com/json/pt/diariodenotciasmadeira/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/9/114379.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/9/114379.v5.png", EUROPA WEB RÁDIO
+https://rs2.ptservidor.com/proxy/jose1236?mp=/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/3/20203.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/3/20203.v3.png", Emissora das Beiras
+https://onlineradiobox.com/json/pt/emissoradasbeiras/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/2/120702.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/2/120702.v4.png", Energia fm
+https://srv2.andradedeveloper.net/listen/energiafm/radio.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/5/19335.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/19335.v3.png", Estacao Diaria
+https://onlineradiobox.com/json/pt/estacaodiaria/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/7/70657.v14.png size="Small" background="https://cdn.onlineradiobox.com/img/l/7/70657.v14.png", Evolução Radio
+https://onlineradiobox.com/json/pt/evolucao/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/8/19928.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/8/19928.v5.png", FAMA Rádio Portugal
+https://eu10.fastcast4u.com/famaradio
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/0/46840.v7.png size="Small" background="https://cdn.onlineradiobox.com/img/l/0/46840.v7.png", FRED FILM RADIO
+https://s10.webradio-hosting.com/proxy/fredradiopt/stream/;
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/3/120473.v1.png size="Small" background="https://cdn.onlineradiobox.com/img/l/3/120473.v1.png", Futura
+https://s4.radio.co/s7e7b6c165/listen
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/8/19918.v9.png size="Small" background="https://cdn.onlineradiobox.com/img/l/8/19918.v9.png", Geice FM
+https://ec2.yesstreaming.net:3275/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/0/71220.v12.png size="Small" background="https://cdn.onlineradiobox.com/img/l/0/71220.v12.png", Groove Radio PT
+https://onlineradiobox.com/json/pt/grooveradiopt/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/1/105151.v21.png size="Small" background="https://cdn.onlineradiobox.com/img/l/1/105151.v21.png", HITS CUBA
+https://s11.w3bserver.com/listen/hits_cuba/radio.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/2/101382.v6.png size="Small" background="https://cdn.onlineradiobox.com/img/l/2/101382.v6.png", HappyHardcore
+https://audio-edge-5bkfj.fra.h.radiomast.io/0cef93cd-5974-43b1-868e-c739e81f4f2b
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/2/55922.v16.png size="Small" background="https://cdn.onlineradiobox.com/img/l/2/55922.v16.png", Hard & Heavy Metal Hits Radio
+https://audio.serv.pt/8040/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/2/87112.v7.png size="Small" background="https://cdn.onlineradiobox.com/img/l/2/87112.v7.png", Hard Waves Radio
+https://c22.radioboss.fm:18034/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/5/71995.v8.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/71995.v8.png", Hip Hop Rádio
+https://hiphopradio.pt/stream/index.php
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/0/19610.v6.png size="Small" background="https://cdn.onlineradiobox.com/img/l/0/19610.v6.png", Hiper FM
+https://centova.radio.com.pt/proxy/500?mp=/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/6/98096.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/6/98096.v3.png", Hit FM
+https://stream.zeno.fm/88ck6ggfqm0uv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/1/83161.v6.png size="Small" background="https://cdn.onlineradiobox.com/img/l/1/83161.v6.png", Hits of 80 and 90
+https://streamingV2.shoutcast.com/Hitsof80and90
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/0/105410.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/0/105410.v3.png", House Music Radio
+https://stream.zeno.fm/ubrbwq17qy8uv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/2/88902.v1.png size="Small" background="https://cdn.onlineradiobox.com/img/l/2/88902.v1.png", Housefm.pt
+https://onlineradiobox.com/json/pt/housefmpt/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/1/127841.v2.png size="Small" background="https://cdn.onlineradiobox.com/img/l/1/127841.v2.png", Informedia Radio 106.3 in4media
+https://onlineradiobox.com/json/pt/informedia1063/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/6/105046.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/6/105046.v3.png", Informédia
+https://onlineradiobox.com/json/pt/informedia/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/4/19604.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/4/19604.v4.png", Iris Fm
+https://onlineradiobox.com/json/pt/iris/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/9/82469.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/9/82469.v4.png", Jocavi Radio
+https://onlineradiobox.com/json/pt/jocav/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/2/19182.v6.png size="Small" background="https://cdn.onlineradiobox.com/img/l/2/19182.v6.png", Kiss Fm 101.2
+https://nl.digitalrm.pt:8024/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/6/58506.v17.png size="Small" background="https://cdn.onlineradiobox.com/img/l/6/58506.v17.png", LUNA FM Portugal
+http://lunaportugal.lunabroadcasting.net/stream/1/
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/6/89836.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/6/89836.v5.png", Lafões Digital
+https://onlineradiobox.com/json/pt/lafoesdigital/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/0/86440.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/0/86440.v4.png", Latina Radio Web
+https://stream.zeno.fm/7qm2ssbq5tzuv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/4/126104.v10.png size="Small" background="https://cdn.onlineradiobox.com/img/l/4/126104.v10.png", Lifestyle Radio Internacional
+https://servidor18.brlogic.com:7682/live
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/7/99937.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/7/99937.v3.png", Lisboa
+https://sonicpanel.oficialserver.com/8058/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/4/94334.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/4/94334.v5.png", Lux Radio Alcochete
+https://stream.zeno.fm/ny0mekgs2a0uv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/1/88361.v2.png size="Small" background="https://cdn.onlineradiobox.com/img/l/1/88361.v2.png", Luzuca Metal
+https://freeuk21.listen2myradio.com/live.mp3?typeportmount=s1_4099_stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/3/58253.v17.png size="Small" background="https://cdn.onlineradiobox.com/img/l/3/58253.v17.png", M80 Radio
+https://stream-icy.bauermedia.pt/m80.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/9/19969.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/9/19969.v5.png", Mais Oeste Rádio
+https://onlineradiobox.com/json/pt/maisoeste/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/0/19240.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/0/19240.v5.png", Mega Hits
+https://playerservices.streamtheworld.com/api/livestream-redirect/MEGA_HITSAAC_SC?dist=onlineradiobox
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/6/19586.v7.png size="Small" background="https://cdn.onlineradiobox.com/img/l/6/19586.v7.png", Mehefil Radio
+https://onlineradiobox.com/json/pt/mehefil/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/5/19225.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/19225.v3.png", Metro 97.7 FM
+https://onlineradiobox.com/json/pt/metro977/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/8/82498.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/8/82498.v5.png", Moods
+https://stream.zeno.fm/qjjcdkzrbzutv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/5/90155.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/90155.v4.png", NWOBHM Radio
+https://stream.zeno.fm/admqxb7de2zuv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/3/19193.v12.png size="Small" background="https://cdn.onlineradiobox.com/img/l/3/19193.v12.png", Net Radio Catolica NRC
+https://solid24.streamupsolutions.com/proxy/kaineczj?mp=/nrc.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/4/19514.v7.png size="Small" background="https://cdn.onlineradiobox.com/img/l/4/19514.v7.png", Noite FM
+https://onlineradiobox.com/json/pt/noite/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/0/84170.v13.png size="Small" background="https://cdn.onlineradiobox.com/img/l/0/84170.v13.png", O Mundo da Flor
+https://sp0.redeaudio.com:10966/;
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/5/90585.v7.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/90585.v7.png", ON FM
+https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/9/101859.v6.png size="Small" background="https://cdn.onlineradiobox.com/img/l/9/101859.v6.png", On the Radio-Lisbon
+https://cast3.asurahosting.com/proxy/mediawis/live
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/0/65380.v17.png size="Small" background="https://cdn.onlineradiobox.com/img/l/0/65380.v17.png", PT Radio
+https://onlineradiobox.com/json/pt/soundsofportugal/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/7/119487.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/7/119487.v4.png", PT Radio (Christmas)
+https://c19.radioboss.fm:18041/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/6/112696.v7.png size="Small" background="https://cdn.onlineradiobox.com/img/l/6/112696.v7.png", Pirata Fm
+https://onlineradiobox.com/json/pt/pirata/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/2/93652.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/2/93652.v5.png", Planeta Love
+https://stream.zeno.fm/ut9t91zdma0uv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/0/100410.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/0/100410.v3.png", Planeta Net Radio
+https://spaudio.servers.pt/8012/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/7/19607.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/7/19607.v3.png", PopularFM 90.9
+https://onlineradiobox.com/json/pt/popular909/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/8/84048.v11.png size="Small" background="https://cdn.onlineradiobox.com/img/l/8/84048.v11.png", Porto Digital
+https://ssl.xpspainel.eu/jGot5udn8EMcaN9ELA0B
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/4/93434.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/4/93434.v5.png", Quando Portugal Canta
+https://ssl.ndvendas.eu:7148/;
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/7/58507.v20.png size="Small" background="https://cdn.onlineradiobox.com/img/l/7/58507.v20.png", Quiet Storm
+https://onlineradiobox.com/json/pt/quietstormbylunafm/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/1/121041.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/1/121041.v3.png", R80
+https://cast1.lunabroadcasting.net/listen/r80/radio.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/8/19818.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/8/19818.v4.png", RADIO 24 PORTUGAL
+https://onlineradiobox.com/json/pt/24portugal/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/3/104913.v13.png size="Small" background="https://cdn.onlineradiobox.com/img/l/3/104913.v13.png", RADIO FAUSTEX
+https://onlineradiobox.com/json/pt/faustex/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/4/104914.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/4/104914.v5.png", RADIO FAUSTEX 2
+https://onlineradiobox.com/json/pt/faustex2/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/5/104915.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/104915.v4.png", RADIO FAUSTEX 3
+https://freeuk21.listen2myradio.com/live.mp3?typeportmount=s1_5717_stream_155405390;stream.nsv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/6/104916.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/6/104916.v3.png", RADIO FAUSTEX 4
+https://freeuk24.listen2myradio.com/live.mp3?typeportmount=s1_8507_stream_752707725;stream.nsv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/0/104920.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/0/104920.v3.png", RADIO FAUSTEX DANCE
+https://fps4.listen2myradio.com:2199/listen.php?ip=109.169.23.123&amp;port=8073&amp;type=s1
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/2/104922.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/2/104922.v3.png", RADIO FAUSTEX INSTRUMENTAL
+https://fps4.listen2myradio.com:2199/listen.php?ip=109.169.23.123&amp;port=9781&amp;type=s1
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/1/104921.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/1/104921.v3.png", RADIO FAUSTEX MEMORIES
+https://fps4.listen2myradio.com:2199/listen.php?ip=109.169.23.123&amp;port=8025&amp;type=s1
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/9/104919.v2.png size="Small" background="https://cdn.onlineradiobox.com/img/l/9/104919.v2.png", RADIO FAUSTEX PLP
+https://fps6.listen2myradio.com:2199/listen.php?ip=78.129.237.53&amp;port=8864&amp;type=s1
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/3/104923.v2.png size="Small" background="https://cdn.onlineradiobox.com/img/l/3/104923.v2.png", RADIO FAUSTEX SOFT
+https://fps4.listen2myradio.com:2199/listen.php?ip=109.169.23.123&amp;port=8939&amp;type=s1
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/8/104918.v2.png size="Small" background="https://cdn.onlineradiobox.com/img/l/8/104918.v2.png", RADIO FAUSTEX TOP
+https://fps4.listen2myradio.com:2199/listen.php?ip=109.169.23.123&amp;port=8540&amp;type=s1
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/3/126073.v1.png size="Small" background="https://cdn.onlineradiobox.com/img/l/3/126073.v1.png", RADIO M.R.A
+https://stm1.marioaleixo.top:7002/;
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/7/104917.v7.png size="Small" background="https://cdn.onlineradiobox.com/img/l/7/104917.v7.png", RADIO NOVA / FAUSTEX
+https://freeuk18.listen2myradio.com/live.mp3?typeportmount=s1_7341_stream_589404479;stream.nsv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/2/105482.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/2/105482.v4.png", RADIO_BRB_MATOSINHOS
+https://stream.zeno.fm/xg1npstvz08uv/;
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/5/19695.v7.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/19695.v7.png", RCA Ribatejo
+https://sslstreaming.com/8006/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/7/111467.v1.png size="Small" background="https://cdn.onlineradiobox.com/img/l/7/111467.v1.png", RCL 99fm
+https://sp0.redeaudio.com/8116/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/3/19963.v2.png size="Small" background="https://cdn.onlineradiobox.com/img/l/3/19963.v2.png", RCP Radio Clube Penafiel
+https://onlineradiobox.com/json/pt/clubepenafiel/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/7/19687.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/7/19687.v4.png", RCS 91.2 FM Lisboa
+https://onlineradiobox.com/json/pt/rcs912/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/8/45588.v7.png size="Small" background="https://cdn.onlineradiobox.com/img/l/8/45588.v7.png", RDP Internacional
+https://streaming-live.rtp.pt/liveradio/rdpint80a/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/2/45572.v17.png size="Small" background="https://cdn.onlineradiobox.com/img/l/2/45572.v17.png", RDP África
+https://streaming-live.rtp.pt/liveradio/rdpafrica80a/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/4/20344.v10.png size="Small" background="https://cdn.onlineradiobox.com/img/l/4/20344.v10.png", RES FM 107.9
+https://sslstreaming.com:7004/;stream.nsv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/2/19452.v11.png size="Small" background="https://cdn.onlineradiobox.com/img/l/2/19452.v11.png", RFM
+https://playerservices.streamtheworld.com/api/livestream-redirect/RFM_SC?dist=onlineradiobox
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/3/97643.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/3/97643.v5.png", RLCB Dance
+https://stm2.painelcast.com:7544/;
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/0/19530.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/0/19530.v5.png", ROXX 2 METAL
+https://myradio24.org/6359
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/7/45597.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/7/45597.v4.png", RTP- ZIG ZAG
+https://onlineradiobox.com/json/pt/rtpzigzag/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/2/81972.v2.png size="Small" background="https://cdn.onlineradiobox.com/img/l/2/81972.v2.png", RVD Radio
+https://onlineradiobox.com/json/pt/rvd/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/5/92245.v6.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/92245.v6.png", RVouzela
+https://onlineradiobox.com/json/pt/rvouzela/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/3/19483.v10.png size="Small" background="https://cdn.onlineradiobox.com/img/l/3/19483.v10.png", Radar FM
+https://proic1.evspt.com/radar_aac
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/7/112417.v2.png size="Small" background="https://cdn.onlineradiobox.com/img/l/7/112417.v2.png", Radialistas de Viseu
+https://stream.zeno.fm/77r7ufhaz98uv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/5/20045.v1.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/20045.v1.png", Radio 105 FM 
+https://onlineradiobox.com/json/pt/105/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/2/116482.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/2/116482.v3.png", Radio 21
+https://stream.zeno.fm/xvxdf31gzk8uv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/6/82496.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/6/82496.v5.png", Radio 5 Estrelas
+https://onlineradiobox.com/json/pt/5estrelas/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/3/19273.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/3/19273.v4.png", Radio 94 FM
+https://onlineradiobox.com/json/pt/radio94/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/2/103862.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/2/103862.v5.png", Radio Adonai
+https://stm4.onecast.com.br:7264/;stream.nsv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/3/100503.v2.png size="Small" background="https://cdn.onlineradiobox.com/img/l/3/100503.v2.png", Radio Afurada
+https://sp0.redeaudio.com/9988/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/6/85086.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/6/85086.v3.png", Radio Albufeira Online
+https://stream.zeno.fm/en3v5u9zarruv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/5/94325.v20.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/94325.v20.png", Radio Alcobaça
+https://s5.stmxp.net/8008/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/6/121206.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/6/121206.v4.png", Radio Alma Gemea Top 10
+https://ssl.ndvendas.eu:7300/;
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/6/102176.v6.png size="Small" background="https://cdn.onlineradiobox.com/img/l/6/102176.v6.png", Radio Alma Transmontana
+https://ssl.hostserviceradios.es:7007/:
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/5/114295.v10.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/114295.v10.png", Radio Alma transmontana
+https://sbox1.sonybox.es:9010/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/1/19931.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/1/19931.v4.png", Radio Alto Ave
+https://centova.radio.com.pt/proxy/517?mp=/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/0/104600.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/0/104600.v3.png", Radio Alvao Vila Real
+https://ssl.ndvendas.eu:9660/
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/8/19188.v6.png size="Small" background="https://cdn.onlineradiobox.com/img/l/8/19188.v6.png", Radio Alvor
+https://centova.radio.com.pt/proxy/469?mp=/stream/;listen.pls
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/4/83044.v2.png size="Small" background="https://cdn.onlineradiobox.com/img/l/4/83044.v2.png", Radio Amigos Do Porto
+https://onlineradiobox.com/json/pt/amigosdoporto/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/5/82715.v16.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/82715.v16.png", Radio Amor Eterno
+https://ssl.stmxp.net:7134/;stream.nsv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/3/19683.v13.png size="Small" background="https://cdn.onlineradiobox.com/img/l/3/19683.v13.png", Radio Antena Livre
+https://onlineradiobox.com/json/pt/antenalivre/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/6/19326.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/6/19326.v3.png", Radio Antena Livre Gouveia
+https://onlineradiobox.com/json/pt/antenalivregouveia/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/5/19965.v7.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/19965.v7.png", Radio Atlantida
+https://cast1.lunabroadcasting.net/listen/atlantida/radio.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/4/101084.v9.png size="Small" background="https://cdn.onlineradiobox.com/img/l/4/101084.v9.png", Radio Balada Musical
+https://ssl.stmxp.net:7224/;stream.nsv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/9/19769.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/9/19769.v3.png", Radio Barcelos FM 91.9
+https://onlineradiobox.com/json/pt/barcelos919/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/4/19744.v6.png size="Small" background="https://cdn.onlineradiobox.com/img/l/4/19744.v6.png", Radio Calheta
+https://streamonline.pt/radio/8000/radiocalheta/;
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/6/20346.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/6/20346.v5.png", Radio Caminha
+https://onlineradiobox.com/json/pt/caminha/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/5/19165.v10.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/19165.v10.png", Radio Campanario
+https://centova.radio.com.pt/proxy/425?mp=/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/9/79819.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/9/79819.v3.png", Radio Canal Luso Rock
+https://onlineradiobox.com/json/pt/canallusorock/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/6/117386.v2.png size="Small" background="https://cdn.onlineradiobox.com/img/l/6/117386.v2.png", Radio Cantinho De Guifoes
+https://s1.stmxp.net:7210/;
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/3/19253.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/3/19253.v3.png", Radio Caria
+https://onlineradiobox.com/json/pt/caria/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/3/19073.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/3/19073.v4.png", Radio Castrense
+https://onlineradiobox.com/json/pt/castrense/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/9/74899.v6.png size="Small" background="https://cdn.onlineradiobox.com/img/l/9/74899.v6.png", Radio Cidade Azul
+https://ssls.stmxp.net:8014/;stream.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/7/19767.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/7/19767.v4.png", Radio Cidade Hoje
+https://onlineradiobox.com/json/pt/cidadehoje/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/6/20076.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/6/20076.v4.png", Radio Cidade de Tomar
+https://shoutcast.htt.pt:8030/radio.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/1/20211.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/1/20211.v3.png", Radio ClbPortugal
+https://onlineradiobox.com/json/pt/clbportugal/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/1/19721.v8.png size="Small" background="https://cdn.onlineradiobox.com/img/l/1/19721.v8.png", Radio Clube
+https://audio.serv.pt/8020/stream.mp3?_=6
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/5/19935.v8.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/19935.v8.png", Radio Clube Aguiarense
+https://onlineradiobox.com/json/pt/clubeaguiarense/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/9/19299.v6.png size="Small" background="https://cdn.onlineradiobox.com/img/l/9/19299.v6.png", Radio Clube De Arganil
+https://onlineradiobox.com/json/pt/clubedearganil/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/8/19328.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/8/19328.v3.png", Radio Clube De Monsanto
+https://onlineradiobox.com/json/pt/clubedemonsanto/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/4/19964.v14.png size="Small" background="https://cdn.onlineradiobox.com/img/l/4/19964.v14.png", Radio Clube Pacos de Ferreira
+https://servidor13.brlogic.com:7768/live
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/2/102162.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/2/102162.v4.png", Radio Clube Santa Marta
+https://onlineradiobox.com/json/pt/clubesantamarta/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/5/19955.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/19955.v3.png", Radio Clube da Feira
+https://onlineradiobox.com/json/pt/clubedafeira/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/1/20181.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/1/20181.v3.png", Radio Clube da Meda
+https://onlineradiobox.com/json/pt/clubedameda/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/9/19229.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/9/19229.v4.png", Radio Clube de Alcoutim
+https://onlineradiobox.com/json/pt/clubedealcoutim/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/4/19404.v7.png size="Small" background="https://cdn.onlineradiobox.com/img/l/4/19404.v7.png", Radio Clube de Armamar
+https://onlineradiobox.com/json/pt/clubedearmamar/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/5/19395.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/19395.v3.png", Radio Clube de Grandola RCG
+https://onlineradiobox.com/json/pt/clubedegrandolarcg/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/7/19957.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/7/19957.v4.png", Radio Clube de Lamego
+https://onlineradiobox.com/json/pt/clubedelamego/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/2/88072.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/2/88072.v3.png", Radio Cola Mix
+https://onlineradiobox.com/json/pt/colamix/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/6/71966.v16.png size="Small" background="https://cdn.onlineradiobox.com/img/l/6/71966.v16.png", Radio Comercial
+https://media2.mcr.iol.pt/livefm/comercial/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/0/19330.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/0/19330.v5.png", Radio Condestavel
+https://centova.radio.com.pt/proxy/427?mp=/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/1/96831.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/1/96831.v5.png", Radio Coração do Alentejo
+https://sonic.servsonic.com/8016/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/8/19248.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/8/19248.v5.png", Radio Cova Da Beira
+https://centova.radio.com.pt/proxy/467?mp=/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/1/118431.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/1/118431.v3.png", Radio Cristo Digital
+https://stream-55.zeno.fm/jgosw66ywhquv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/5/110435.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/110435.v4.png", Radio Deixem Passar a Musica
+https://ssl.radiodpm.com:7000/;
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/3/20073.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/3/20073.v5.png", Radio Despertar
+https://stream.zeno.fm/fx5n4m0xkwzuv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/6/91306.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/6/91306.v5.png", Radio Diana Fm
+https://ssl.ndvendas.eu:9694/;stream.nsv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/5/91535.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/91535.v3.png", Radio Do Amor Ana Da Noite 2
+https://ssl.ndvendas.eu:9944/;stream.nsv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/9/19609.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/9/19609.v3.png", Radio Do Concelho De Mafra
+https://centova.radio.com.pt/proxy/551?mp=/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/8/20178.v7.png size="Small" background="https://cdn.onlineradiobox.com/img/l/8/20178.v7.png", Radio Dom Fuas FM
+https://streaming.shoutcast.com/radio-dom-fuas
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/9/87519.v6.png size="Small" background="https://cdn.onlineradiobox.com/img/l/9/87519.v6.png", Radio Echo Portugal
+https://stream.zeno.fm/s9bwyczq6tzuv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/2/19332.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/2/19332.v4.png", Radio Elmo
+https://onlineradiobox.com/json/pt/elmo/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/3/19923.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/3/19923.v5.png", Radio Estrelas Do Norte
+https://sp0.redeaudio.com/8122/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/7/83097.v7.png size="Small" background="https://cdn.onlineradiobox.com/img/l/7/83097.v7.png", Radio EuroPub
+https://onlineradiobox.com/json/pt/europub/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/8/19378.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/8/19378.v4.png", Radio F
+https://onlineradiobox.com/json/pt/radiof/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/8/20048.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/8/20048.v5.png", Radio Faial Açores
+https://onlineradiobox.com/json/pt/faialaores/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/2/84592.v15.png size="Small" background="https://cdn.onlineradiobox.com/img/l/2/84592.v15.png", Radio Faustex 5 (2)
+https://freeuk29.listen2myradio.com/live.mp3?typeportmount=s1_11834_stream_549826512;stream.nsv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/4/84594.v11.png size="Small" background="https://cdn.onlineradiobox.com/img/l/4/84594.v11.png", Radio Faustex Oldies 2
+https://onlineradiobox.com/json/pt/faustexoldies2/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/1/84591.v10.png size="Small" background="https://cdn.onlineradiobox.com/img/l/1/84591.v10.png", Radio Faustex Orchestres 2
+https://onlineradiobox.com/json/pt/faustexorchestres2/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/5/80775.v17.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/80775.v17.png", Radio Faustex Party
+https://onlineradiobox.com/json/pt/faustexparty/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/5/84595.v13.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/84595.v13.png", Radio Faustex Party 2
+https://stream-151.zeno.fm/7pv1p1hucphvv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/3/84593.v10.png size="Small" background="https://cdn.onlineradiobox.com/img/l/3/84593.v10.png", Radio Faustex Portuguese Music 2
+https://stream.zeno.fm/2vutbxtucphvv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/0/84590.v12.png size="Small" background="https://cdn.onlineradiobox.com/img/l/0/84590.v12.png", Radio Faustex Relax 2
+https://freeuk24.listen2myradio.com/live.mp3?typeportmount=s1_39125_stream_901229985;stream.nsv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/2/19952.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/2/19952.v3.png", Radio Felgueiras
+https://onlineradiobox.com/json/pt/felgueiras/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/3/95903.v2.png size="Small" background="https://cdn.onlineradiobox.com/img/l/3/95903.v2.png", Radio FestEventos
+https://onlineradiobox.com/json/pt/festeventos/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/9/19719.v8.png size="Small" background="https://cdn.onlineradiobox.com/img/l/9/19719.v8.png", Radio Festival
+https://audio.serv.pt/8012/stream.mp3?_=5
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/2/19492.v10.png size="Small" background="https://cdn.onlineradiobox.com/img/l/2/19492.v10.png", Radio Folclore Portugal
+https://sonic.servsonic.com:7002/;
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/8/87488.v14.png size="Small" background="https://cdn.onlineradiobox.com/img/l/8/87488.v14.png", Radio Fronteirense
+https://stream.zeno.fm/rhwxv5204k8uv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/3/95163.v7.png size="Small" background="https://cdn.onlineradiobox.com/img/l/3/95163.v7.png", Radio Funchal
+https://cast2.hoost.com.br:20150/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/5/88375.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/88375.v4.png", Radio Fundacao
+https://onlineradiobox.com/json/pt/fundacao/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/6/19236.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/6/19236.v5.png", Radio Gilao
+https://centova.radio.com.pt/proxy/440?mp=/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/7/124747.v1.png size="Small" background="https://cdn.onlineradiobox.com/img/l/7/124747.v1.png", Radio Globalmix
+https://ssl.stmxp.net:7220/;
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/5/85535.v6.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/85535.v6.png", Radio Globalmix
+https://stream.zeno.fm/297etft8qs8uv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/1/101271.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/1/101271.v4.png", Radio Golo Fm
+https://s9.yesstreaming.net:18032/live
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/9/99659.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/9/99659.v5.png", Radio Gondomar Mix
+https://sp0.redeaudio.com:10860/;stream.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/3/55903.v23.png size="Small" background="https://cdn.onlineradiobox.com/img/l/3/55903.v23.png", Radio Gospel Geração Adoradora
+https://player.streaminghd.net.br/proxy.php?p=7040:stm1
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/2/18732.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/2/18732.v4.png", Radio Graciosa
+https://onlineradiobox.com/json/pt/graciosa/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/2/19172.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/2/19172.v4.png", Radio Granada
+https://centova.radio.com.pt/proxy/549?mp=/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/9/20139.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/9/20139.v5.png", Radio Guadiana
+https://onlineradiobox.com/json/pt/guadiana/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/8/74738.v6.png size="Small" background="https://cdn.onlineradiobox.com/img/l/8/74738.v6.png", Radio H
+https://sp0.redeaudio.com/8034/stream;stream.nsv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/0/19230.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/0/19230.v3.png", Radio Horizonte Algarve
+https://centova.radio.com.pt/proxy/458?mp=/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/0/20230.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/0/20230.v5.png", Radio Horizonte FM
+https://onlineradiobox.com/json/pt/horizonte928/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/7/19707.v23.png size="Small" background="https://cdn.onlineradiobox.com/img/l/7/19707.v23.png", Radio Ideias
+https://rs3.ptservidor.net/8006/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/4/86464.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/4/86464.v4.png", Radio Ilha Azul
+https://servidor24-3.brlogic.com:8154/live
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/2/99802.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/2/99802.v3.png", Radio Jornal Fm
+https://radios.justweb.pt/8032/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/4/92894.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/4/92894.v4.png", Radio K7
+https://player.painelcast.com/proxy/7546;
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/6/19296.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/6/19296.v3.png", Radio Lafoes
+https://onlineradiobox.com/json/pt/lafoes/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/1/18731.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/1/18731.v5.png", Radio Lagoa
+https://onlineradiobox.com/json/pt/lagoa/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/2/20042.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/2/20042.v4.png", Radio Lajes
+https://onlineradiobox.com/json/pt/lajes/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/8/115168.v2.png size="Small" background="https://cdn.onlineradiobox.com/img/l/8/115168.v2.png", Radio Liberty Square
+https://stream.zeno.fm/z51d7nptwrhvv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/1/19301.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/1/19301.v3.png", Radio Limite 89
+https://onlineradiobox.com/json/pt/limite89/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/4/20254.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/4/20254.v4.png", Radio Linear
+https://nl.digitalrm.pt:8184/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/1/80191.v20.png size="Small" background="https://cdn.onlineradiobox.com/img/l/1/80191.v20.png", Radio Lisboa
+https://radiolisboa.ddns.net:8443/live
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/6/20036.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/6/20036.v3.png", Radio Lumena
+https://onlineradiobox.com/json/pt/lumena/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/9/19499.v8.png size="Small" background="https://cdn.onlineradiobox.com/img/l/9/19499.v8.png", Radio Lusitania CB
+https://stm10.painelcast.com:7540/;
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/7/85167.v12.png size="Small" background="https://cdn.onlineradiobox.com/img/l/7/85167.v12.png", Radio Manchete
+https://radios.justweb.pt/8008/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/3/50973.v2.png size="Small" background="https://cdn.onlineradiobox.com/img/l/3/50973.v2.png", Radio Manobras
+https://stream.radiozero.pt/radiomanobrasonlive.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/9/19789.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/9/19789.v3.png", Radio Marcoense
+https://onlineradiobox.com/json/pt/marcoense/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/1/19411.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/1/19411.v3.png", Radio Marginal 
+https://onlineradiobox.com/json/pt/marginal/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/3/20083.v7.png size="Small" background="https://cdn.onlineradiobox.com/img/l/3/20083.v7.png", Radio Marinhais
+https://radios.justweb.pt/8026/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/7/84547.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/7/84547.v5.png", Radio Marte Madeira
+https://onlineradiobox.com/json/pt/martemadeira/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/6/94676.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/6/94676.v3.png", Radio Mega Montijo
+https://ssl.hdradios.net:7916/;
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/7/104057.v2.png size="Small" background="https://cdn.onlineradiobox.com/img/l/7/104057.v2.png", Radio Melodias de Amor
+https://sonicpanel.oficialserver.com/8020/stream;stream.nsv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/8/19798.v7.png size="Small" background="https://cdn.onlineradiobox.com/img/l/8/19798.v7.png", Radio Metal On: The Heavy
+https://radiometalon.com/radio/8000/radio.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/1/19741.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/1/19741.v3.png", Radio Miradouro
+https://onlineradiobox.com/json/pt/miradouro/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/7/19947.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/7/19947.v3.png", Radio Montalegre
+https://onlineradiobox.com/json/pt/montalegre/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/9/19409.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/9/19409.v5.png", Radio Montemuro 87.8 FM
+https://eu8.fastcast4u.com/proxy/montemuro?mp=/1
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/8/83118.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/8/83118.v3.png", Radio Movimento PT Online
+https://onlineradiobox.com/json/pt/movimentopt/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/2/110082.v1.png size="Small" background="https://cdn.onlineradiobox.com/img/l/2/110082.v1.png", Radio Mundial AM FM
+https://stream.zeno.fm/ug73375baf9uv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/8/96598.v9.png size="Small" background="https://cdn.onlineradiobox.com/img/l/8/96598.v9.png", Radio Mundial FM
+https://s3.yesstreaming.net:17006/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/5/103375.v2.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/103375.v2.png", Radio Mundial Gospel Portugal
+https://stream.zeno.fm/b1c1rbr13s8uv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/3/85073.v8.png size="Small" background="https://cdn.onlineradiobox.com/img/l/3/85073.v8.png", Radio Mundo da Dama
+https://sonic.servsonic.com/8024/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/6/103536.v8.png size="Small" background="https://cdn.onlineradiobox.com/img/l/6/103536.v8.png", Radio Musica do Coraçao
+https://s1.stmxp.net:7042/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/5/116495.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/116495.v4.png", Radio Musicalidades
+https://stream.zeno.fm/g17h3c1qxk8uv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/1/19821.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/1/19821.v4.png", Radio Nova
+https://centova.radio.com.pt/proxy/528?mp=/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/6/19076.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/6/19076.v5.png", Radio Nova Antena RNA
+https://onlineradiobox.com/json/pt/novaantenarna/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/5/19055.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/19055.v4.png", Radio Nova Cidade
+https://onlineradiobox.com/json/pt/novacidade/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/4/19924.v2.png size="Small" background="https://cdn.onlineradiobox.com/img/l/4/19924.v2.png", Radio Nova Era
+https://onlineradiobox.com/json/pt/novaera/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/2/19962.v2.png size="Small" background="https://cdn.onlineradiobox.com/img/l/2/19962.v2.png", Radio Nove3cinco
+https://onlineradiobox.com/json/pt/nove3cinco/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/5/95415.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/95415.v5.png", Radio Nuvem Branca
+https://s2.stmxp.net:7096/stream?icy=http
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/6/74946.v6.png size="Small" background="https://cdn.onlineradiobox.com/img/l/6/74946.v6.png", Radio Olhos De Agua
+https://onlineradiobox.com/json/pt/alpessuicos/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/8/20248.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/8/20248.v3.png", Radio Onda Livre
+https://onlineradiobox.com/json/pt/ondalivre/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/6/19926.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/6/19926.v4.png", Radio Onda Viva
+https://centova.radio.com.pt/proxy/524?mp=/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/9/81789.v19.png size="Small" background="https://cdn.onlineradiobox.com/img/l/9/81789.v19.png", Radio Ondas do Douro
+https://onlineradiobox.com/json/pt/ondasdodouro/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/5/123795.v2.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/123795.v2.png", Radio Online Adorando Jesus
+https://onlineradiobox.com/json/pt/adorandojesus/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/9/19439.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/9/19439.v5.png", Radio Orbital
+https://onlineradiobox.com/json/pt/orbital/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/0/20250.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/0/20250.v4.png", Radio Paivense
+https://onlineradiobox.com/json/pt/paivense/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/1/86551.v7.png size="Small" background="https://cdn.onlineradiobox.com/img/l/1/86551.v7.png", Radio Paixao FM
+https://sp0.redeaudio.com/9892/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/5/19725.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/19725.v4.png", Radio Palmeira
+https://onlineradiobox.com/json/pt/palmeira/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/2/20072.v6.png size="Small" background="https://cdn.onlineradiobox.com/img/l/2/20072.v6.png", Radio Pax
+https://onlineradiobox.com/json/pt/pax/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/0/19960.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/0/19960.v4.png", Radio Pico
+https://centova.radio.com.pt/proxy/420?mp=/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/7/80137.v7.png size="Small" background="https://cdn.onlineradiobox.com/img/l/7/80137.v7.png", Radio Pinhoense
+https://ssl.ndvendas.eu:9464/;
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/4/126714.v2.png size="Small" background="https://cdn.onlineradiobox.com/img/l/4/126714.v2.png", Radio Plastique
+https://s4.radio.co/s3ebb29d0e/listen
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/8/19728.v6.png size="Small" background="https://cdn.onlineradiobox.com/img/l/8/19728.v6.png", Radio Popular
+https://audio.serv.pt/8008/stream.mp3?_=5
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/0/19920.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/0/19920.v3.png", Radio Popular Afifense
+https://onlineradiobox.com/json/pt/popularafifense/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/3/19823.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/3/19823.v5.png", Radio Portalegre
+https://centova.radio.com.pt/proxy/492?mp=/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/5/105445.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/105445.v4.png", Radio Portugal
+https://stream-18.zeno.fm/yyue51ta998uv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/9/19489.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/9/19489.v3.png", Radio Portugal Star
+https://onlineradiobox.com/json/pt/portugalstar/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/2/19412.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/2/19412.v4.png", Radio Posto Emissor do Funchal
+https://centova.radio.com.pt/proxy/426?mp=/stream;
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/4/114944.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/4/114944.v4.png", Radio Profissionais
+https://ascella.streamerr.co/radio/8050/radio.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/7/19507.v18.png size="Small" background="https://cdn.onlineradiobox.com/img/l/7/19507.v18.png", Radio Promove Portugal
+https://ssl.evsportugal.net:8308/;stream.nsv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/5/105005.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/105005.v3.png", Radio Pulsar
+https://stream.zeno.fm/807nh2t32s8uv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/6/92856.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/6/92856.v5.png", Radio Quando Portugal Canta
+https://stream.zeno.fm/utvwsxzcz4zuv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/7/20187.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/7/20187.v3.png", Radio RCI 105.5 FM
+https://nl.digitalrm.pt:8002/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/4/19944.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/4/19944.v3.png", Radio Regional De Arouca
+https://onlineradiobox.com/json/pt/regionaldearouca/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/6/19396.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/6/19396.v5.png", Radio Regional Do Centro
+https://nl.digitalrm.pt:8030/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/1/19431.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/1/19431.v4.png", Radio Renascença
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENCA_SC?dist=onlineradiobox
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/9/20009.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/9/20009.v4.png", Radio Riba-Tavora
+https://onlineradiobox.com/json/pt/ribatavora/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/2/50002.v11.png size="Small" background="https://cdn.onlineradiobox.com/img/l/2/50002.v11.png", Radio Rlcb Tuga
+https://stm6.conectastreaming.com:8272/;stream.nsv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/1/116771.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/1/116771.v3.png", Radio Santa Marta
+https://onlineradiobox.com/json/pt/santamarta/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/6/20246.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/6/20246.v4.png", Radio Santana FM 92.5
+https://streamonline.pt/radio/8020/radio.mp3?1582153036
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/7/19927.v7.png size="Small" background="https://cdn.onlineradiobox.com/img/l/7/19927.v7.png", Radio Santiago
+https://onlineradiobox.com/json/pt/santiago/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/8/19508.v8.png size="Small" background="https://cdn.onlineradiobox.com/img/l/8/19508.v8.png", Radio Seixal
+https://s9.yesstreaming.net:7070/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/6/79306.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/6/79306.v3.png", Radio Sempre Alegre
+https://stream.zenolive.com/af3em5gbm0quv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/3/19693.v8.png size="Small" background="https://cdn.onlineradiobox.com/img/l/3/19693.v8.png", Radio Sines
+https://ssl.evsportugal.net:7166/stream?type=http&amp;nocache=19794
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/6/19726.v6.png size="Small" background="https://cdn.onlineradiobox.com/img/l/6/19726.v6.png", Radio Sol
+https://audio.serv.pt/8010/stream.mp3?_=5
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/2/124782.v2.png size="Small" background="https://cdn.onlineradiobox.com/img/l/2/124782.v2.png", Radio Sons de Casa
+https://eu8.fastcast4u.com/proxy/jotajss?mp=/1
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/6/87596.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/6/87596.v4.png", Radio Subunny
+https://stream-034.zeno.fm/wpx5kqbbnf9uv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/8/75308.v19.png size="Small" background="https://cdn.onlineradiobox.com/img/l/8/75308.v19.png", Radio Super Mundo Paulo Pintao
+https://stream.zeno.fm/c9fu779r538uv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/1/107771.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/1/107771.v5.png", Radio Sénior da Misericórdia de Pampilhosa da Serra
+https://sp0.redeaudio.com/8198/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/0/19170.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/0/19170.v3.png", Radio Telefonia do Alentejo
+https://onlineradiobox.com/json/pt/telefoniadoalentejo/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/5/120355.v7.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/120355.v7.png", Radio Tematica Arganil
+https://centova57.instainternet.com/proxy/maria?mp=/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/8/74538.v10.png size="Small" background="https://cdn.onlineradiobox.com/img/l/8/74538.v10.png", Radio Tempo Gospel
+https://s08.maxcast.com.br:8276/live
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/5/105355.v6.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/105355.v6.png", Radio Top60 Olhão
+https://sp0.redeaudio.com/8016/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/5/19385.v7.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/19385.v7.png", Radio Universidade De Coimbra
+https://stream.ruc.pt/high
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/1/19191.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/1/19191.v3.png", Radio Universitaria do Algarve
+https://onlineradiobox.com/json/pt/universitariadoalgarve/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/5/19775.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/19775.v4.png", Radio Universitaria do Minho
+https://centova.radio.com.pt/proxy/558?mp=/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/4/114684.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/4/114684.v3.png", Radio Universo Pt
+https://ssl.stmxp.net:8078/;
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/7/19227.v6.png size="Small" background="https://cdn.onlineradiobox.com/img/l/7/19227.v6.png", Radio Utopia
+https://rcast.live/stream/66027.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/5/19465.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/19465.v4.png", Radio Valdevez
+https://onlineradiobox.com/json/pt/valdevez/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/5/19075.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/19075.v5.png", Radio Vidigueira
+https://onlineradiobox.com/json/pt/vidigueira/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/6/88676.v11.png size="Small" background="https://cdn.onlineradiobox.com/img/l/6/88676.v11.png", Radio Vieira Amigos Unidos
+https://s5.stmxp.net:7015/;stream.nsv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/2/101292.v1.png size="Small" background="https://cdn.onlineradiobox.com/img/l/2/101292.v1.png", Radio Viva Portugal
+https://sp0.redeaudio.com/9920/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/5/19605.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/19605.v5.png", Radio Voz De Alenquer
+https://ec2.yesstreaming.net:3735/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/8/19158.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/8/19158.v3.png", Radio Voz da Planicie
+https://centova.radio.com.pt/proxy/441?mp=/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/4/107634.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/4/107634.v3.png", Radio Voz de Leça da Palmeira
+https://ssl.radiovozdeleca.com:8044/stream?icy=http
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/1/20251.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/1/20251.v4.png", Radio Voz de Santo Tirso
+https://radios.justweb.pt/8024/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/1/19961.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/1/19961.v3.png", Radio Voz do Marao
+https://radios.justweb.pt/8016/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/8/19598.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/8/19598.v3.png", Radio Voz do Sorraia
+https://onlineradiobox.com/json/pt/vozdosorraia/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/logo/2/117492.png size="Small" background="https://cdn.onlineradiobox.com/img/logo/2/117492.png", Radio Web Figueira
+https://stream.zeno.fm/mux9u2xp2uhvv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/4/20334.v11.png size="Small" background="https://cdn.onlineradiobox.com/img/l/4/20334.v11.png", Radio XL FM
+https://radios.justweb.pt:7000/;
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/4/19724.v6.png size="Small" background="https://cdn.onlineradiobox.com/img/l/4/19724.v6.png", Radio Zarco
+https://audio.serv.pt/8014/stream.mp3?_=4
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/7/126877.v1.png size="Small" background="https://cdn.onlineradiobox.com/img/l/7/126877.v1.png", Radio lisboa live
+https://sonicpanel.oficialserver.com:7195/;
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/8/94488.v13.png size="Small" background="https://cdn.onlineradiobox.com/img/l/8/94488.v13.png", Radio recanto do sales
+https://player.onecast.com.br/proxy/7048
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/0/127130.v1.png size="Small" background="https://cdn.onlineradiobox.com/img/l/0/127130.v1.png", Radio som do ceu
+https://stream.zeno.fm/sbq3ouawaxsvv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/8/104308.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/8/104308.v4.png", Radio top80 pt
+https://stream.zeno.fm/bbdnbsvhvnhvv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/8/20008.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/8/20008.v4.png", Radio-Atlantico
+https://stream.zeno.fm/bf6kzg37wp8uv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/3/98653.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/3/98653.v5.png", RadioDoCarlitos
+https://ssl.feraplayers.top:7010/;
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/5/99775.v8.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/99775.v8.png", RadioDoCarlitos
+https://s2.stmxp.net:7252/;
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/8/97748.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/8/97748.v5.png", RadioImpec
+https://evcast01.mediacp.eu/impec
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/7/97797.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/7/97797.v3.png", RadioPestanaeAmigos
+https://ssl.stmxp.net:7204/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/5/118635.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/118635.v4.png", Radio_Emigrantes_e_Amigos
+https://stm1.serviceradios.com:8204/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/5/19715.v6.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/19715.v6.png", Radioeste
+https://sp0.redeaudio.com:10933/live
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/6/101676.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/6/101676.v4.png", Radiomelodiasdehoje
+https://stream-148.zeno.fm/tnc805204k8uv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/3/123803.v9.png size="Small" background="https://cdn.onlineradiobox.com/img/l/3/123803.v9.png", Radioportusalacer
+https://stm2.serviceradios.com:7002/;
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/0/113190.v8.png size="Small" background="https://cdn.onlineradiobox.com/img/l/0/113190.v8.png", Radiosaomamedemix
+https://ssl.ndvendas.eu:7018/;
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/9/19399.v8.png size="Small" background="https://cdn.onlineradiobox.com/img/l/9/19399.v8.png", Record FM 107.7
+https://nl.digitalrm.pt:8010/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/6/120766.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/6/120766.v4.png", Rede Atividade News
+https://stream.zeno.fm/ans27lh4sikuv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/7/127077.v2.png size="Small" background="https://cdn.onlineradiobox.com/img/l/7/127077.v2.png", Rede Cidade Megaa
+https://stream.zeno.fm/sfetodqttmavv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/9/114169.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/9/114169.v4.png", Rede News
+https://stream.zeno.fm/4mpy998evnhvv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/1/19071.v1.png size="Small" background="https://cdn.onlineradiobox.com/img/l/1/19071.v1.png", Renascenca Elvas 
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENCAAAC_SC?dist=onlineradiobox
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/4/103324.v2.png size="Small" background="https://cdn.onlineradiobox.com/img/l/4/103324.v2.png", Romantic Rock Radio
+https://stream.zeno.fm/9k789ppe9s8uv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/3/19243.v9.png size="Small" background="https://cdn.onlineradiobox.com/img/l/3/19243.v9.png", Rude Party Web Radio
+https://onlineradiobox.com/json/pt/rudepartyweb/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/5/114915.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/114915.v5.png", RÁDIO ALFAMA  fm
+https://stream.zeno.fm/rczmsfgyhrhvv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/3/20293.v7.png size="Small" background="https://cdn.onlineradiobox.com/img/l/3/20293.v7.png", RÁDIO REGIONAL
+https://play2.radioregional.pt/stream/1/
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/8/74918.v2.png size="Small" background="https://cdn.onlineradiobox.com/img/l/8/74918.v2.png", RÁDIO STAR MIX FM
+https://onlineradiobox.com/json/pt/starmix/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/5/101625.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/101625.v3.png", Ràdio Lusa
+https://onlineradiobox.com/json/pt/lusa/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/9/127889.v1.png size="Small" background="https://cdn.onlineradiobox.com/img/l/9/127889.v1.png", Rádio AVFM
+https://uk2.streamingpulse.com/ssl/radioavfm
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/4/82914.v9.png size="Small" background="https://cdn.onlineradiobox.com/img/l/4/82914.v9.png", Rádio Agita
+https://listen.radioking.com/radio/505570/stream/563098
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/1/82251.v6.png size="Small" background="https://cdn.onlineradiobox.com/img/l/1/82251.v6.png", Rádio Alpendorada
+https://audio.serv.pt/9316/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/7/19377.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/7/19377.v4.png", Rádio Altitude
+https://onlineradiobox.com/json/pt/altitude/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/4/78894.v13.png size="Small" background="https://cdn.onlineradiobox.com/img/l/4/78894.v13.png", Rádio Alto Douro
+https://stream.zeno.fm/btxha34m1wzuv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/7/19917.v7.png size="Small" background="https://cdn.onlineradiobox.com/img/l/7/19917.v7.png", Rádio Alto Minho
+https://ec2.yesstreaming.net:3705/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/3/101313.v6.png size="Small" background="https://cdn.onlineradiobox.com/img/l/3/101313.v6.png", Rádio Amizade Viva
+https://onlineradiobox.com/json/pt/amizadeviva/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/6/110746.v1.png size="Small" background="https://cdn.onlineradiobox.com/img/l/6/110746.v1.png", Rádio Anjo Radical
+https://sonic.servsonic.com/8002/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/9/19929.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/9/19929.v3.png", Rádio Ansiães
+https://onlineradiobox.com/json/pt/ansiaes/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/7/122587.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/7/122587.v3.png", Rádio Atividade FM
+https://stream.zeno.fm/zhygaqzskxwvv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/1/19051.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/1/19051.v3.png", Rádio Açores TSF
+https://onlineradiobox.com/json/pt/acorestsf/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/8/19608.v1.png size="Small" background="https://cdn.onlineradiobox.com/img/l/8/19608.v1.png", Rádio Baía 
+https://onlineradiobox.com/json/pt/baa/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/3/19603.v6.png size="Small" background="https://cdn.onlineradiobox.com/img/l/3/19603.v6.png", Rádio Benedita FM
+https://centova.radio.com.pt/proxy/446?mp=/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/3/124553.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/3/124553.v4.png", Rádio Blog
+https://usa15.fastcast4u.com/proxy/radioblog?mp=/1
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/4/20314.v6.png size="Small" background="https://cdn.onlineradiobox.com/img/l/4/20314.v6.png", Rádio Boa Nova
+https://nl.digitalrm.pt:8094/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/6/90726.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/6/90726.v4.png", Rádio Borba
+https://centova.radio.com.pt/proxy/578?mp=/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/9/19239.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/9/19239.v5.png", Rádio Botaréu
+https://nl.digitalrm.pt:8238/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/7/19777.v6.png size="Small" background="https://cdn.onlineradiobox.com/img/l/7/19777.v6.png", Rádio Braga
+https://s13.maxcast.com.br:8268/live?id=1630449063817
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/3/75483.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/3/75483.v4.png", Rádio Brigantia
+https://centova.radio.com.pt/proxy/491?mp=/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/7/19967.v11.png size="Small" background="https://cdn.onlineradiobox.com/img/l/7/19967.v11.png", Rádio Caima FM
+https://caimafm.ovh/caimafm
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/2/75502.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/2/75502.v3.png", Rádio Campo Maior
+https://onlineradiobox.com/json/pt/campomaior/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/1/124741.v6.png size="Small" background="https://cdn.onlineradiobox.com/img/l/1/124741.v6.png", Rádio Cantinho dos Emigrantes
+https://cast.redewt.net:9825/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/7/20177.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/7/20177.v3.png", Rádio Castelo Branco
+https://centova.radio.com.pt/proxy/462?mp=/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/3/93733.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/3/93733.v4.png", Rádio Cidade
+https://stream.zeno.fm/q9k377tdzy8uv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/9/87709.v6.png size="Small" background="https://cdn.onlineradiobox.com/img/l/9/87709.v6.png", Rádio Cidade de Matosinhos
+https://ssl.stmxp.net:8064/;;stream.nsv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/0/20350.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/0/20350.v4.png", Rádio Clube Asas do Atlântico
+https://centova.radio.com.pt/proxy/538?mp=/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/9/119759.v2.png size="Small" background="https://cdn.onlineradiobox.com/img/l/9/119759.v2.png", Rádio Clube de Pombal
+https://centova.radios.com.pt/proxy/410?mp=/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/3/85443.v6.png size="Small" background="https://cdn.onlineradiobox.com/img/l/3/85443.v6.png", Rádio Clube do Dão
+https://sp0.redeaudio.com/8052/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/3/73053.v9.png size="Small" background="https://cdn.onlineradiobox.com/img/l/3/73053.v9.png", Rádio Cordial
+https://listen.openstream.co/6149/audio
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/6/20316.v8.png size="Small" background="https://cdn.onlineradiobox.com/img/l/6/20316.v8.png", Rádio Corval Alentejo
+https://centova.radio.com.pt/proxy/184?mp=/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/9/90989.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/9/90989.v4.png", Rádio Costa do Sol
+https://onlineradiobox.com/json/pt/costadosol/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/5/110385.v1.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/110385.v1.png", Rádio Difusora FM
+https://stream.zeno.fm/tmus189fkf9uv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/2/111752.v7.png size="Small" background="https://cdn.onlineradiobox.com/img/l/2/111752.v7.png", Rádio Douro Nacional Lamego
+https://sp0.redeaudio.com/9796/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/1/85941.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/1/85941.v3.png", Rádio Dueça
+https://onlineradiobox.com/json/pt/dueca/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/8/19078.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/8/19078.v4.png", Rádio Elvas 91.5
+https://onlineradiobox.com/json/pt/elvas915/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/9/124909.v1.png size="Small" background="https://cdn.onlineradiobox.com/img/l/9/124909.v1.png", Rádio Escala
+https://stream.zeno.fm/m0os6jzbffouv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/8/124348.v2.png size="Small" background="https://cdn.onlineradiobox.com/img/l/8/124348.v2.png", Rádio Esfera 4.0
+https://s05.w3bserver.com:20001//;
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/2/19812.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/2/19812.v5.png", Rádio Festival 94.8
+https://onlineradiobox.com/json/pt/festival948/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/8/77638.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/8/77638.v5.png", Rádio Figueira Gospel
+https://stream.zeno.fm/3203584xyqzuv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/8/19228.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/8/19228.v3.png", Rádio Fóia
+https://onlineradiobox.com/json/pt/foia/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/4/117144.v12.png size="Small" background="https://cdn.onlineradiobox.com/img/l/4/117144.v12.png", Rádio Gerações CAP Caria
+https://stream.zeno.fm/6h6eavybqxhvv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/9/20339.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/9/20339.v4.png", Rádio Hertz  FM
+https://onlineradiobox.com/json/pt/hertz/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/9/82499.v21.png size="Small" background="https://cdn.onlineradiobox.com/img/l/9/82499.v21.png", Rádio Histórias Arganil
+https://centova57.instainternet.com/proxy/maria?mp=/1
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/5/18725.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/18725.v4.png", Rádio Horizonte Açores Terceira
+https://horizonte-radiohorizonte.radioca.st/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/6/84166.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/6/84166.v5.png", Rádio Infante
+https://stream.zeno.fm/u6e8nue7krruv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/8/109348.v2.png size="Small" background="https://cdn.onlineradiobox.com/img/l/8/109348.v2.png", Rádio Interativa FM
+https://stream.zeno.fm/kvuya0t4gc9uv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/5/88665.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/88665.v4.png", Rádio JM
+https://radios.justweb.pt/8030/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/6/97036.v2.png size="Small" background="https://cdn.onlineradiobox.com/img/l/6/97036.v2.png", Rádio Jornal Artistas de Portugal
+https://stream.zeno.fm/wq182xg704zuv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/1/81831.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/1/81831.v3.png", Rádio Jornal do Centro
+https://onlineradiobox.com/json/pt/jornaldocentro/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/1/81851.v2.png size="Small" background="https://cdn.onlineradiobox.com/img/l/1/81851.v2.png", Rádio Lousada
+https://onlineradiobox.com/json/pt/lousada/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/7/120117.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/7/120117.v4.png", Rádio Love Hits
+https://onlineradiobox.com/json/pt/lovehits/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/9/19079.v7.png size="Small" background="https://cdn.onlineradiobox.com/img/l/9/19079.v7.png", Rádio M24
+https://prosc1.evspt.com/m24
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/4/86914.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/4/86914.v3.png", Rádio Madeira Mix
+https://onlineradiobox.com/json/pt/madeiramix/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/3/120123.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/3/120123.v4.png", Rádio Mapa África
+https://stream.rcast.net/69075
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/5/94195.v2.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/94195.v2.png", Rádio Mega FM
+https://onlineradiobox.com/json/pt/mega/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/8/20228.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/8/20228.v4.png", Rádio Meo Sudoeste
+https://onlineradiobox.com/json/pt/meosudoeste/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/7/82187.v8.png size="Small" background="https://cdn.onlineradiobox.com/img/l/7/82187.v8.png", Rádio Metropolitana Porto
+https://stream.zeno.fm/merfn44vwd0uv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/7/94207.v2.png size="Small" background="https://cdn.onlineradiobox.com/img/l/7/94207.v2.png", Rádio Miúdos
+https://s5.radio.co/s9c516a065/listen
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/9/89029.v8.png size="Small" background="https://cdn.onlineradiobox.com/img/l/9/89029.v8.png", Rádio Moderna Portugal
+https://s5.stmxp.net/8076/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/2/84812.v14.png size="Small" background="https://cdn.onlineradiobox.com/img/l/2/84812.v14.png", Rádio Mondego FM
+https://hts01.painelstream.net/player-ssl/?porta=10738
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/1/109381.v1.png size="Small" background="https://cdn.onlineradiobox.com/img/l/1/109381.v1.png", Rádio Montanha
+https://ssl.ndvendas.eu:9812/;
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/1/45671.v8.png size="Small" background="https://cdn.onlineradiobox.com/img/l/1/45671.v8.png", Rádio Motard FM
+https://sp0.redeaudio.com/8096/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/5/90735.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/90735.v5.png", Rádio Mértola
+https://onlineradiobox.com/json/pt/mertola/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/1/112231.v7.png size="Small" background="https://cdn.onlineradiobox.com/img/l/1/112231.v7.png", Rádio NOAR
+https://stream.zeno.fm/bb1ff5sq4ehvv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/4/105314.v2.png size="Small" background="https://cdn.onlineradiobox.com/img/l/4/105314.v2.png", Rádio NoAr
+https://radios.justweb.pt:7016/index
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/5/81585.v2.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/81585.v2.png", Rádio Norte
+https://onlineradiobox.com/json/pt/norte/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/1/85681.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/1/85681.v3.png", Rádio Nostalgia Elvas
+https://onlineradiobox.com/json/pt/nostalgiaelvas/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/2/89152.v7.png size="Small" background="https://cdn.onlineradiobox.com/img/l/2/89152.v7.png", Rádio Nova Estrela
+https://sonic.h2.pt/8008/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/1/116421.v2.png size="Small" background="https://cdn.onlineradiobox.com/img/l/1/116421.v2.png", Rádio Nova Gospel Europa
+https://stm1.srvif.com:7214/;
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/4/93274.v8.png size="Small" background="https://cdn.onlineradiobox.com/img/l/4/93274.v8.png", Rádio Observador
+https://playerservices.streamtheworld.com/api/livestream-redirect/OBSERVADORAAC.aac?dist=onlineradiobox
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/4/46624.v6.png size="Small" background="https://cdn.onlineradiobox.com/img/l/4/46624.v6.png", Rádio Onda Mega
+https://radios.justweb.pt/8036/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/9/84629.v6.png size="Small" background="https://cdn.onlineradiobox.com/img/l/9/84629.v6.png", Rádio Ondas da Cabreira
+https://ssl.stmxp.net:7012/;stream.nsv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/2/19932.v2.png size="Small" background="https://cdn.onlineradiobox.com/img/l/2/19932.v2.png", Rádio Ondas do Lima
+https://onlineradiobox.com/json/pt/ondasdolima/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/7/123797.v1.png size="Small" background="https://cdn.onlineradiobox.com/img/l/7/123797.v1.png", Rádio Online Shalon Adonay
+https://onlineradiobox.com/json/pt/shalonadonay/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/3/37563.v6.png size="Small" background="https://cdn.onlineradiobox.com/img/l/3/37563.v6.png", Rádio Ovos Moles
+https://sp0.redeaudio.com/9330/;
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/1/19481.v15.png size="Small" background="https://cdn.onlineradiobox.com/img/l/1/19481.v15.png", Rádio Oxigénio
+https://onlineradiobox.com/json/pt/oxigenio/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/0/19070.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/0/19070.v4.png", Rádio Planície
+https://onlineradiobox.com/json/pt/planicie/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/9/96499.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/9/96499.v3.png", Rádio Portimão
+https://sp0.redeaudio.com/9440/stream;?1605622218364
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/9/19819.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/9/19819.v5.png", Rádio Portuense Online
+https://player.stmxp.net/proxy/7066
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/7/19487.v11.png size="Small" background="https://cdn.onlineradiobox.com/img/l/7/19487.v11.png", Rádio Portugal Mais
+https://sv15.hdradios.net:7432/;stream.nsv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/3/109443.v2.png size="Small" background="https://cdn.onlineradiobox.com/img/l/3/109443.v2.png", Rádio Portugal News AM
+https://stream.zeno.fm/kgkdr4frnc9uv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/0/109190.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/0/109190.v3.png", Rádio Portugal News FM
+https://stream.zeno.fm/7h57ce07ec9uv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/5/19595.v6.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/19595.v6.png", Rádio Positiva
+https://nl.digitalrm.pt:8016/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/2/114452.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/2/114452.v4.png", Rádio Power Hits
+https://onlineradiobox.com/json/pt/powerhits/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/5/20245.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/20245.v5.png", Rádio Praia
+https://onlineradiobox.com/json/pt/praia/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/2/125942.v6.png size="Small" background="https://cdn.onlineradiobox.com/img/l/2/125942.v6.png", Rádio Praiense
+https://ssl.stmxp.net:7014/1
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/1/74491.v7.png size="Small" background="https://cdn.onlineradiobox.com/img/l/1/74491.v7.png", Rádio RBO FM
+https://stream.zeno.fm/a51ttgprn3quv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/0/109220.v1.png size="Small" background="https://cdn.onlineradiobox.com/img/l/0/109220.v1.png", Rádio Regional News FM
+https://stream.zeno.fm/29dy2y8dfc9uv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/2/20292.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/2/20292.v5.png", Rádio Regional Sanjoanense 88.1 FM
+https://stream.rcast.net/67126
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/4/75094.v6.png size="Small" background="https://cdn.onlineradiobox.com/img/l/4/75094.v6.png", Rádio Remember FM
+https://onlineradiobox.com/json/pt/remember/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/2/75462.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/2/75462.v3.png", Rádio SBSR
+https://centova.radios.pt/proxy/435?mp=/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/4/94194.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/4/94194.v4.png", Rádio Sensações
+https://onlineradiobox.com/json/pt/sensacoes/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/6/120116.v2.png size="Small" background="https://cdn.onlineradiobox.com/img/l/6/120116.v2.png", Rádio Sertanejo
+https://onlineradiobox.com/json/pt/sertanejo/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/4/92174.v7.png size="Small" background="https://cdn.onlineradiobox.com/img/l/4/92174.v7.png", Rádio Soberania
+https://nl.digitalrm.pt:8034/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/2/90732.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/2/90732.v4.png", Rádio Solar 94 FM
+https://onlineradiobox.com/json/pt/solar/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/6/121286.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/6/121286.v3.png", Rádio Sucesso Portugal
+https://onlineradiobox.com/json/pt/sucesso/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/8/19068.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/8/19068.v5.png", Rádio São Miguel 105.9
+https://onlineradiobox.com/json/pt/saomiguel1059/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/4/90734.v6.png size="Small" background="https://cdn.onlineradiobox.com/img/l/4/90734.v6.png", Rádio São Vicente
+https://streamonline.pt/radio/8010//;
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/0/111350.v1.png size="Small" background="https://cdn.onlineradiobox.com/img/l/0/111350.v1.png", Rádio TV Som de Mais
+https://onlineradiobox.com/json/pt/somdemais/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/7/109307.v2.png size="Small" background="https://cdn.onlineradiobox.com/img/l/7/109307.v2.png", Rádio Taiane News FM
+https://stream.zeno.fm/zf48d3fbfc9uv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/1/116461.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/1/116461.v3.png", Rádio Talego
+https://stream.zeno.fm/qy7zrpumq2zuv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/2/19322.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/2/19322.v5.png", Rádio Terranova
+https://onlineradiobox.com/json/pt/terranova/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/8/87428.v6.png size="Small" background="https://cdn.onlineradiobox.com/img/l/8/87428.v6.png", Rádio Terras de Lanhoso
+https://s1.stmxp.net:7028/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/7/123247.v2.png size="Small" background="https://cdn.onlineradiobox.com/img/l/7/123247.v2.png", Rádio Top 80
+https://onlineradiobox.com/json/pt/top80/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/2/88142.v7.png size="Small" background="https://cdn.onlineradiobox.com/img/l/2/88142.v7.png", Rádio Tágide
+https://radiotag.radioca.st/stream?1666037563183
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/0/85580.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/0/85580.v3.png", Rádio US Nelas
+https://sp0.redeaudio.com/8054/stream?1603106992356
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/9/127209.v2.png size="Small" background="https://cdn.onlineradiobox.com/img/l/9/127209.v2.png", Rádio União A nossa Voz
+https://sp0.redeaudio.com/8204/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/1/20331.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/1/20331.v4.png", Rádio Vida FM 97.1
+https://onlineradiobox.com/json/pt/vida971/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/0/127450.v1.png size="Small" background="https://cdn.onlineradiobox.com/img/l/0/127450.v1.png", Rádio Vila Nova
+https://spaudio.servers.pt/9966/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/1/94601.v1.png size="Small" background="https://cdn.onlineradiobox.com/img/l/1/94601.v1.png", Rádio Viriato
+https://ssls.stmxp.net:9070/;
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/1/19781.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/1/19781.v4.png", Rádio Voz da Ria
+https://onlineradiobox.com/json/pt/vozdaria/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/6/19786.v13.png size="Small" background="https://cdn.onlineradiobox.com/img/l/6/19786.v13.png", Rádio Voz do Neiva
+https://sp0.redeaudio.com/8092/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/3/119773.v1.png size="Small" background="https://cdn.onlineradiobox.com/img/l/3/119773.v1.png", Rádio XL
+https://stream.rcast.net/69102
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/0/19510.v1.png size="Small" background="https://cdn.onlineradiobox.com/img/l/0/19510.v1.png", Rádio Zero
+https://stream.radiozero.pt/zero128.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/9/109209.v2.png size="Small" background="https://cdn.onlineradiobox.com/img/l/9/109209.v2.png", Rádio Zoom
+https://streaming.brazink.com/?p=7045
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/2/128922.v1.png size="Small" background="https://cdn.onlineradiobox.com/img/l/2/128922.v1.png", Rádio digital
+https://sp0.redeaudio.com/radiodigital/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/5/19495.v7.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/19495.v7.png", Rádio do Folclore Português
+https://sonic.servsonic.com/8012/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/8/19718.v6.png size="Small" background="https://cdn.onlineradiobox.com/img/l/8/19718.v6.png", Rádio jornal da madeira
+https://radio.jm-madeira.pt/?type=https
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/2/82532.v11.png size="Small" background="https://cdn.onlineradiobox.com/img/l/2/82532.v11.png", Rádio Êxitos Portugueses
+https://stm9.voxhd.com.br:8686/;stream.nsv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/8/96568.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/8/96568.v3.png", SO Radio
+https://summeropening.ptservidor.net/
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/6/19206.v9.png size="Small" background="https://cdn.onlineradiobox.com/img/l/6/19206.v9.png", Sagres FM
+https://sagresfm.pt/stream/?q=http://176.61.144.80:9302/;type=mp3
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/4/75464.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/4/75464.v3.png", Silver Radio
+https://onlineradiobox.com/json/pt/silverradio/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/0/19080.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/0/19080.v3.png", Singa FM
+https://centova.radio.com.pt/proxy/487?mp=/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/0/75390.v6.png size="Small" background="https://cdn.onlineradiobox.com/img/l/0/75390.v6.png", Sintonia Feirense
+https://onlineradiobox.com/json/pt/aguiaazul/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/5/58255.v11.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/58255.v11.png", Smooth FM
+https://stream-icy.bauermedia.pt/smooth.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/1/110841.v1.png size="Small" background="https://cdn.onlineradiobox.com/img/l/1/110841.v1.png", Sociedade Digital
+https://stream.zeno.fm/hmc1ghqv1f9uv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/6/100036.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/6/100036.v3.png", Soul Breeze Radio
+https://streaming.radio.co/s97d43a8c5/listen
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/9/19589.v8.png size="Small" background="https://cdn.onlineradiobox.com/img/l/9/19589.v8.png", Super FM
+https://sp0.redeaudio.com/9962/;;/stream.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/9/19069.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/9/19069.v3.png", TLA Radio
+https://centova.radio.com.pt/proxy/545?mp=/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/1/75421.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/1/75421.v3.png", TOP FM
+https://onlineradiobox.com/json/pt/top959/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/0/19430.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/0/19430.v4.png", TSF
+https://tsfdirecto.tsf.pt/tsfdirecto.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/4/20074.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/4/20074.v3.png", Tejo Rádio Jornal
+https://onlineradiobox.com/json/pt/tejojornal/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/2/58352.v6.png size="Small" background="https://cdn.onlineradiobox.com/img/l/2/58352.v6.png", Telefonia da Amadora
+https://onlineradiobox.com/json/pt/telefoniadaamadora/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/6/19966.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/6/19966.v3.png", Terra Quente FM
+https://onlineradiobox.com/json/pt/terraquente/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/8/92728.v12.png size="Small" background="https://cdn.onlineradiobox.com/img/l/8/92728.v12.png", The 80s
+https://str1.mediatelekom.net:8150/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/1/89061.v2.png size="Small" background="https://cdn.onlineradiobox.com/img/l/1/89061.v2.png", The Fashion Radio
+https://servidor18-2.brlogic.com:7682/live
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/6/19266.v8.png size="Small" background="https://cdn.onlineradiobox.com/img/l/6/19266.v8.png", The VIBE Dancefloor Radio
+https://onlineradiobox.com/json/pt/thevibedancefloor/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/7/20047.v9.png size="Small" background="https://cdn.onlineradiobox.com/img/l/7/20047.v9.png", Top FM
+https://onlineradiobox.com/json/pt/top/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/1/20081.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/1/20081.v3.png", Torres Novas FM 100.8
+https://onlineradiobox.com/json/pt/torresnovas1008/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/5/19235.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/5/19235.v5.png", Total FM
+https://onlineradiobox.com/json/pt/total/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/2/81952.v28.png size="Small" background="https://cdn.onlineradiobox.com/img/l/2/81952.v28.png", Trance Passion
+https://stream.zeno.fm/9kwfufxcewzuv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/1/116021.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/1/116021.v4.png", Trocadilho FM
+https://stream.zenolive.com/6dvqh3k2xuhvv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/6/19606.v8.png size="Small" background="https://cdn.onlineradiobox.com/img/l/6/19606.v8.png", Tropical FM
+https://solid9.streamupsolutions.com/proxy/vgiyxlil?mp=/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/7/19527.v10.png size="Small" background="https://cdn.onlineradiobox.com/img/l/7/19527.v10.png", True Life in God Radio Portuguese
+https://stream.tligradio.org/listen/english/radio.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/0/87630.v16.png size="Small" background="https://cdn.onlineradiobox.com/img/l/0/87630.v16.png", TugaFm
+https://stream.laut.fm/tugafm
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/logo/3/111913.png size="Small" background="https://cdn.onlineradiobox.com/img/logo/3/111913.png", TunetRádio
+https://sp0.redeaudio.com:10932/;stream.nsv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/2/19522.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/2/19522.v4.png", Ultra FM
+https://onlineradiobox.com/json/pt/ultra/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/9/90729.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/9/90729.v5.png", Uni Radio
+https://onlineradiobox.com/json/pt/uni/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/2/20012.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/2/20012.v5.png", Universidade FM
+https://centova.radio.com.pt/proxy/405?mp=/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/7/19827.v6.png size="Small" background="https://cdn.onlineradiobox.com/img/l/7/19827.v6.png", VEEP RADIO
+https://listen.radioking.com/radio/42445/stream/79033
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/9/20349.v17.png size="Small" background="https://cdn.onlineradiobox.com/img/l/9/20349.v17.png", VFM
+https://cast.redewt.net/proxy/vfm/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/0/20200.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/0/20200.v3.png", Vagos FM
+https://nl.digitalrm.pt:8110/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/7/19387.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/7/19387.v3.png", Vida Nova FM
+https://onlineradiobox.com/json/pt/vidanova/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/1/19541.v8.png size="Small" background="https://cdn.onlineradiobox.com/img/l/1/19541.v8.png", Vodafone FM
+https://stream-icy.bauermedia.pt/vodafone.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/8/85548.v3.png size="Small" background="https://cdn.onlineradiobox.com/img/l/8/85548.v3.png", Voz Efikaz
+https://migueljlourenco34.wixsite.com/vozefikaz
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/8/115218.v2.png size="Small" background="https://cdn.onlineradiobox.com/img/l/8/115218.v2.png", WRF Web Rádio Figueiró
+https://rs2.ptservidor.com/proxy/orlando?mp=/stream?type=.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/4/93454.v14.png size="Small" background="https://cdn.onlineradiobox.com/img/l/4/93454.v14.png", Web Furacao Dos Acores
+https://ssl.pnstream.com:7214/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/8/78598.v10.png size="Small" background="https://cdn.onlineradiobox.com/img/l/8/78598.v10.png", Web Radio Apollo
+https://onlineradiobox.com/json/pt/webapollo/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/9/72659.v12.png size="Small" background="https://cdn.onlineradiobox.com/img/l/9/72659.v12.png", Web Radio Açoriana
+https://ssl.stmxp.net:7044/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/9/124009.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/9/124009.v5.png", Web Radio Voz De Queimada
+https://spaudio.servers.pt/8010/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/0/122530.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/0/122530.v4.png", Web Rádio Lisboa Portuga
+https://stream.zeno.fm/nxb9qijagyrtv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/9/77519.v8.png size="Small" background="https://cdn.onlineradiobox.com/img/l/9/77519.v8.png", Web Rádio Portugal Online
+https://sp0.redeaudio.com/9838/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/2/111112.v1.png size="Small" background="https://cdn.onlineradiobox.com/img/l/2/111112.v1.png", Woman Radio
+https://onlineradiobox.com/json/pt/woman/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/9/75269.v5.png size="Small" background="https://cdn.onlineradiobox.com/img/l/9/75269.v5.png", Xmas Radio Portugal (Radio Cordial)
+https://listen.openstream.co/7102/audio
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/6/116196.v2.png size="Small" background="https://cdn.onlineradiobox.com/img/l/6/116196.v2.png", jovembsk
+https://stream.zeno.fm/6t7158qydy8uv
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/6/19826.v18.png size="Small" background="https://cdn.onlineradiobox.com/img/l/6/19826.v18.png", nRP
+https://onlineradiobox.com/json/pt/nrp/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/9/127849.v2.png size="Small" background="https://cdn.onlineradiobox.com/img/l/9/127849.v2.png", radio divina online
+https://stream1.svrdedicado.org:7179/;
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/3/101293.v6.png size="Small" background="https://cdn.onlineradiobox.com/img/l/3/101293.v6.png", radio-do-talho
+https://onlineradiobox.com/json/pt/dotalho/play?platform=web
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/6/101296.v4.png size="Small" background="https://cdn.onlineradiobox.com/img/l/6/101296.v4.png", radio-toca-a-dancar
+https://sp0.redeaudio.com/9974/stream
+#EXTINF:0 type="stream" channelId="-1" group="Portugal" logo=https://cdn.onlineradiobox.com/img/l/4/50974.v6.png size="Small" background="https://cdn.onlineradiobox.com/img/l/4/50974.v6.png", stress.fm
+https://stress.fm/stream.mp3
